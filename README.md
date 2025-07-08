@@ -1,6 +1,6 @@
 ## 📰 News Data Generation Tool
 
-A python data genration script to generate **realistic financial news data** that includes columns such as **date, time, stock symbols, stock exchange, sector, headlines (this just contains the headline id for now, eg: H0001, H0002, etc), category, source, sentiment, impact score, confidence score and affected symbols**. 
+- A python data genration script to generate **realistic financial news data** that includes columns such as **date, time, stock symbols, stock exchange, sector, headlines (this just contains the headline id for now, eg: H0001, H0002, etc), category, source, sentiment, impact score, confidence score and affected symbols**. 
 ---
 
 ## 📦 Features
