@@ -1,501 +1,501 @@
 date,time,stock_symbol,stock_exchange,sector,headline_id,category,source,sentiment,impact_score,confidence_score,affected_symbols
-2025-07-07,14:20:51,TECK,NYSE MKT,Consumer Discretionary,H0441,Macroeconomic,CNBC,Neutral,0.93,0.91,SPYU;GOVT;PAGS
-2025-07-07,10:48:11,ARR,BATS,Industrial,H0442,Macroeconomic,Reuters,Positive,0.389,0.78,BN
-2025-07-07,10:19:54,ASO,NYSE MKT,Telecom,H0443,Leadership Change,Social Media,Negative,0.153,0.97,BV;AUTL
-2025-07-07,12:55:24,EQH,NYSE ARCA,Energy,H0444,Rumor,Reuters,Neutral,0.55,0.8,TBLA
-2025-07-07,09:00:27,VMEO,LSE,Industrial,H0445,Rumor,CNBC,Positive,0.91,0.98,VOO;CAL
-2025-07-07,10:14:34,SLV,LSE,Real Estate,H0446,M&A,Benzinga,Neutral,0.719,0.58,TRV;FTRE;WCC;OR
-2025-07-07,11:49:32,MPC,LSE,Technology,H0447,Rumor,Benzinga,Positive,0.363,0.92,XPEV;BANC;SIRI
-2025-07-07,13:45:23,ARRY,BATS,Healthcare,H0448,Rumor,WSJ,Positive,0.422,0.71,RIG;TLS;COLM
-2025-07-07,11:23:31,EPRT,NYSE MKT,Real Estate,H0449,Rumor,WSJ,Positive,0.277,0.59,FHN;FLR
-2025-07-07,09:34:50,RL,NYSE,Industrial,H0450,Earnings,Reuters,Neutral,0.737,0.74,GIS;PVH;KVUE
-2025-07-07,12:02:19,SPRY,NASDAQ,Telecom,H0451,M&A,Social Media,Positive,0.715,0.82,PPC
-2025-07-07,14:44:36,AXTA,LSE,Healthcare,H0452,Earnings,Bloomberg,Positive,0.669,0.62,RYN;HPP;FAS
-2025-07-07,13:57:13,CGON,NASDAQ,Telecom,H0453,Rumor,Benzinga,Negative,0.614,0.59,UAL;GCI
-2025-07-07,09:09:59,LYRA,LSE,Consumer Discretionary,H0454,M&A,Benzinga,Negative,0.641,0.95,BGC
-2025-07-07,09:52:28,ETHU,NYSE ARCA,Real Estate,H0455,Macroeconomic,Social Media,Neutral,0.148,0.8,HTGC;LYFT
-2025-07-07,10:57:01,GLDM,NYSE,Finance,H0456,Regulation,WSJ,Positive,0.495,0.84,ERJ;QURE
-2025-07-07,10:10:48,EWU,NYSE,Consumer Discretionary,H0457,Macroeconomic,CNBC,Negative,0.43,0.79,CXM
-2025-07-07,16:02:32,JHX,LSE,Finance,H0458,Macroeconomic,CNBC,Negative,0.524,0.77,DENN;LXP;XLK;VFLO
-2025-07-07,16:44:49,SIL,BATS,Utilities,H0459,Macroeconomic,Reuters,Negative,0.321,0.69,FANG;LNG;SCHA;DVN
-2025-07-07,11:47:16,JAMF,NYSE MKT,Finance,H0460,Product Launch,Benzinga,Positive,0.596,0.54,PBR;SCHW;BSY
-2025-07-07,10:13:20,SMG,NYSE MKT,Telecom,H0461,M&A,Reuters,Negative,0.191,0.99,
-2025-07-07,09:46:59,RDDT,LSE,Energy,H0462,Rumor,CNBC,Positive,0.891,0.52,PSN;TTMI;SID
-2025-07-07,16:46:50,BWIN,NYSE,Healthcare,H0463,Product Launch,Bloomberg,Negative,0.629,0.89,ICHR;SNY
-2025-07-07,13:14:16,VIAV,NYSE MKT,Telecom,H0464,M&A,Bloomberg,Negative,0.425,0.61,CLVT;DINO;INTU;SCI;WLK
-2025-07-07,11:40:16,RRX,NYSE MKT,Real Estate,H0465,Rumor,Benzinga,Negative,0.919,0.63,
-2025-07-07,10:00:46,LHX,NASDAQ,Industrial,H0466,Product Launch,Social Media,Positive,0.119,0.98,JNPR;ARKG;FITB;POST;NOTE
-2025-07-07,11:28:31,BSX,NYSE MKT,Healthcare,H0467,Earnings,Benzinga,Positive,0.641,0.91,ETH;KSS;DVAX;BINC
-2025-07-07,14:08:12,ARHS,NYSE,Healthcare,H0468,Leadership Change,Benzinga,Positive,0.197,0.88,VDC
-2025-07-07,14:24:04,DB,NASDAQ,Technology,H0469,M&A,Benzinga,Negative,0.117,0.74,HIMX
-2025-07-07,14:24:04,JPST,NASDAQ,Technology,H0469,M&A,Benzinga,Negative,0.117,0.74,AXL;CART;OMEX
-2025-07-07,13:58:12,PWR,NYSE ARCA,Technology,H0470,Earnings,Reuters,Negative,0.794,0.52,
-2025-07-07,15:40:11,BP,NYSE ARCA,Technology,H0471,M&A,Social Media,Positive,0.967,0.88,INZY;ESPR;OCGN;HI;ISRG
-2025-07-07,10:03:56,OTEX,NYSE MKT,Real Estate,H0472,M&A,Reuters,Negative,0.587,0.86,EXEL;ARE
-2025-07-07,12:50:55,NITO,LSE,Industrial,H0473,Macroeconomic,Reuters,Negative,0.43,0.77,MDT;CRH
-2025-07-07,15:01:09,DNLI,NYSE,Technology,H0474,Rumor,Benzinga,Negative,0.251,1.0,SMTC;ZBH
-2025-07-07,09:17:41,CURI,BATS,Healthcare,H0475,M&A,Bloomberg,Positive,0.416,0.56,PMT;PTPI;XLI;COMM
-2025-07-07,13:52:44,MMC,NYSE MKT,Utilities,H0476,Macroeconomic,Bloomberg,Negative,0.586,0.67,SARO;LYRA;HSAI
-2025-07-07,09:47:10,GOVT,NYSE,Real Estate,H0477,M&A,Social Media,Positive,0.266,0.84,KD;GRPN;VSCO
-2025-07-07,15:26:25,CIEN,BATS,Industrial,H0478,Regulation,CNBC,Positive,0.519,0.66,
-2025-07-07,12:30:20,GIS,NYSE MKT,Real Estate,H0479,Earnings,Bloomberg,Negative,0.561,0.63,
-2025-07-07,10:13:32,HCA,NYSE,Consumer Discretionary,H0480,Macroeconomic,CNBC,Positive,0.476,0.51,LYFT
-2025-07-07,09:56:34,MASI,NYSE ARCA,Healthcare,H0481,Regulation,Benzinga,Neutral,0.986,0.95,PATH;CPRX;OLO;FTI;ZTO
-2025-07-07,12:50:09,PINS,NYSE ARCA,Consumer Discretionary,H0482,Rumor,WSJ,Negative,0.701,0.51,PPC;CAG
-2025-07-07,12:14:55,SATS,BATS,Finance,H0483,M&A,Reuters,Negative,0.381,0.69,PSQ;EMXC;COGT
-2025-07-07,16:19:02,FANG,NYSE MKT,Real Estate,H0484,Regulation,WSJ,Negative,0.217,0.81,FNDX;EVLV
-2025-07-07,13:16:43,DIA,NYSE MKT,Healthcare,H0485,Macroeconomic,CNBC,Negative,0.658,0.74,ZBH
-2025-07-07,10:11:34,LAMR,NYSE ARCA,Technology,H0486,Rumor,Bloomberg,Positive,0.743,0.93,MTG;GRAL;FOXO;DVYE;PM
-2025-07-07,14:59:20,SPRY,NYSE,Real Estate,H0487,Rumor,CNBC,Negative,0.542,0.62,
-2025-07-07,09:32:51,ORN,LSE,Finance,H0488,Rumor,Reuters,Positive,0.598,0.53,MO
-2025-07-07,10:14:31,ZI,NYSE,Utilities,H0489,Leadership Change,Social Media,Positive,0.621,0.67,HPQ;TVTX;FMC;HPP
-2025-07-07,13:31:27,DENN,BATS,Healthcare,H0490,Rumor,WSJ,Positive,0.728,0.92,AVEM;HLIO;CRC;WOOF;SONY
-2025-07-07,12:00:55,OLO,LSE,Energy,H0491,Leadership Change,CNBC,Negative,0.303,0.58,INN;DYNF;MBC
-2025-07-07,10:05:31,COTY,LSE,Energy,H0492,Leadership Change,WSJ,Positive,0.453,0.51,ETNB;EQNR;TIGR
-2025-07-07,13:56:16,KWEB,LSE,Technology,H0493,Macroeconomic,CNBC,Negative,0.234,0.55,GOTU;SCHM
-2025-07-07,14:12:13,EWQ,LSE,Consumer Discretionary,H0494,Rumor,WSJ,Positive,0.499,0.75,EOG;BG
-2025-07-07,10:08:19,OUNZ,BATS,Utilities,H0495,Macroeconomic,Reuters,Negative,0.745,0.92,TFLO;PAGS;AXL;BITU
-2025-07-07,09:15:22,REM,NYSE,Industrial,H0496,Macroeconomic,Social Media,Negative,0.707,0.68,SMST;SLDB;RARE;SOXL;PULS
-2025-07-07,10:18:35,SLV,NYSE,Industrial,H0497,Regulation,CNBC,Negative,0.341,0.56,SIBN;PYLD;PONY;MASI
-2025-07-07,11:14:23,BRBR,NYSE,Energy,H0498,Leadership Change,WSJ,Positive,0.44,0.58,META
-2025-07-07,11:14:23,GTN,NYSE,Energy,H0498,Leadership Change,WSJ,Positive,0.44,0.58,MLCO;PBF;PSX
-2025-07-07,11:14:23,DFS,NYSE,Energy,H0498,Leadership Change,WSJ,Positive,0.44,0.58,HPP;BIPC;TECL;MO;BITO
-2025-07-07,09:04:31,IRBT,NYSE MKT,Telecom,H0499,Rumor,CNBC,Positive,0.678,0.7,SHYG;KGC;CE
-2025-07-07,14:50:26,GILD,NYSE MKT,Finance,H0500,M&A,Bloomberg,Negative,0.392,0.86,PSTG
-2025-07-07,14:06:37,NBIS,NYSE,Industrial,H0501,Earnings,Bloomberg,Neutral,0.399,0.78,EWJ;SPTL;JELD;FAS;NGD
-2025-07-07,16:28:41,SVXY,BATS,Finance,H0502,Leadership Change,WSJ,Positive,0.703,0.55,KURA;PRTA
-2025-07-07,13:21:00,RCAT,BATS,Finance,H0503,M&A,Reuters,Negative,0.396,0.66,BOIL;FLOT
-2025-07-07,09:33:35,SVIX,NYSE MKT,Industrial,H0504,Macroeconomic,Benzinga,Negative,0.373,0.57,OGN
-2025-07-07,12:28:17,VTLE,NYSE MKT,Telecom,H0505,Leadership Change,WSJ,Negative,0.619,0.61,VNO
-2025-07-07,16:18:35,EQH,BATS,Utilities,H0506,Leadership Change,WSJ,Positive,0.123,0.57,BL;ENR
-2025-07-07,16:45:02,CGNX,BATS,Real Estate,H0507,Macroeconomic,CNBC,Positive,0.23,0.88,KOPN;ZTO;MGM;TZA;BBD
-2025-07-07,09:01:05,BITU,NYSE ARCA,Telecom,H0508,Regulation,CNBC,Neutral,0.503,0.69,NYT;CYTK;VET;NTRS;JHG
-2025-07-07,09:48:14,BITU,NYSE MKT,Healthcare,H0509,Earnings,CNBC,Negative,0.484,0.86,
-2025-07-07,15:20:31,ING,NYSE,Consumer Discretionary,H0510,Rumor,Benzinga,Positive,0.635,0.68,GS;KD;MRP;SNY
-2025-07-07,14:41:52,NKE,LSE,Utilities,H0511,M&A,Bloomberg,Positive,0.613,0.73,
-2025-07-07,11:05:07,PAYO,BATS,Industrial,H0512,Leadership Change,Bloomberg,Neutral,0.702,0.76,KGC;MMM;SYY
-2025-07-07,16:25:54,MNSO,NASDAQ,Energy,H0513,M&A,CNBC,Positive,0.467,0.9,USB
-2025-07-07,14:08:44,BITO,BATS,Consumer Discretionary,H0514,Leadership Change,Reuters,Neutral,0.226,0.74,UPRO
-2025-07-07,16:58:41,FMC,NASDAQ,Consumer Discretionary,H0515,Regulation,CNBC,Negative,0.511,0.63,PYPL;AVA
-2025-07-07,10:03:11,DUK,BATS,Real Estate,H0516,Regulation,Benzinga,Positive,0.797,0.96,WERN;SPY;COTY;PYPL
-2025-07-07,15:00:38,AVY,BATS,Utilities,H0517,Rumor,Reuters,Neutral,0.16,0.66,VTEX;SNY
-2025-07-07,15:34:50,GLDD,NYSE MKT,Healthcare,H0518,M&A,Bloomberg,Neutral,0.239,0.58,DRS;PRMB
-2025-07-07,10:15:47,SEZL,NYSE ARCA,Energy,H0519,Rumor,CNBC,Positive,0.842,0.59,PAYO
-2025-07-07,16:50:46,APLS,NYSE MKT,Consumer Discretionary,H0520,Leadership Change,Bloomberg,Negative,0.386,0.8,PPL;DOCS;JELD;OPEN
-2025-07-07,13:29:10,FDX,NYSE ARCA,Healthcare,H0521,Leadership Change,Social Media,Negative,0.168,0.59,UBS;CEP
-2025-07-07,16:46:44,ELS,NYSE ARCA,Technology,H0522,Macroeconomic,Benzinga,Positive,0.669,0.94,
-2025-07-07,10:23:10,EXEL,BATS,Industrial,H0523,Product Launch,WSJ,Negative,0.54,0.65,ESI;SPHR;RH;LGMK
-2025-07-07,12:39:47,CIEN,NYSE,Consumer Discretionary,H0524,Leadership Change,Benzinga,Negative,0.337,0.76,CHD
-2025-07-07,12:39:47,H,NYSE,Consumer Discretionary,H0524,Leadership Change,Benzinga,Negative,0.337,0.76,
-2025-07-07,09:40:46,BAX,NYSE ARCA,Energy,H0525,Product Launch,Benzinga,Negative,0.405,0.61,ARWR;INOD;BMY;JEF
-2025-07-07,11:07:10,TSLT,LSE,Utilities,H0526,Macroeconomic,Social Media,Negative,0.609,0.68,BAC;BBNX;MPLX
-2025-07-07,11:07:10,GNLN,LSE,Utilities,H0526,Macroeconomic,Social Media,Negative,0.609,0.68,MRCY
-2025-07-07,11:07:10,IGV,LSE,Utilities,H0526,Macroeconomic,Social Media,Negative,0.609,0.68,NTLA;LABD
-2025-07-07,14:27:24,EXPD,NASDAQ,Consumer Discretionary,H0527,M&A,Benzinga,Neutral,0.348,0.61,HUN
-2025-07-07,11:38:53,ZI,NYSE,Finance,H0528,Product Launch,Bloomberg,Neutral,0.38,0.64,CWH;CME;VSTS;UAMY
-2025-07-07,11:38:53,FBIN,NYSE,Finance,H0528,Product Launch,Bloomberg,Neutral,0.38,0.64,NDAQ;LAMR;DLB;PCOR
-2025-07-07,11:38:53,FBND,NYSE,Finance,H0528,Product Launch,Bloomberg,Neutral,0.38,0.64,
-2025-07-07,11:38:53,FANG,NYSE,Finance,H0528,Product Launch,Bloomberg,Neutral,0.38,0.64,SJM;HLF
-2025-07-07,11:38:53,MTH,NYSE,Finance,H0528,Product Launch,Bloomberg,Neutral,0.38,0.64,MCHI;OGN;XPEV
-2025-07-07,09:04:25,GOOS,NYSE ARCA,Real Estate,H0529,Regulation,Social Media,Positive,0.945,0.62,DLTR;PFF
-2025-07-07,13:59:59,MLPA,BATS,Consumer Discretionary,H0530,Product Launch,Bloomberg,Positive,0.644,0.98,VWO;TZA;SLV;HE
-2025-07-07,15:55:02,SMH,NYSE ARCA,Healthcare,H0531,Rumor,WSJ,Positive,0.69,0.66,SANA
-2025-07-07,10:13:51,UUUU,NYSE,Telecom,H0532,Regulation,Social Media,Negative,0.737,0.69,BFLY;HTZ;RIVN
-2025-07-07,11:41:13,PSX,BATS,Telecom,H0533,Earnings,CNBC,Positive,0.842,0.98,EWC
-2025-07-07,13:42:41,OHI,LSE,Finance,H0534,Product Launch,WSJ,Neutral,0.602,0.57,
-2025-07-07,13:38:50,RELY,LSE,Energy,H0535,Earnings,Reuters,Negative,0.992,0.64,UAMY
-2025-07-07,09:27:22,NCEW,BATS,Industrial,H0536,Rumor,WSJ,Positive,0.469,0.62,JBLU;SO
-2025-07-07,16:56:18,BRO,NYSE ARCA,Utilities,H0537,M&A,Reuters,Neutral,0.811,0.92,HTGC;GDDY;TTD;STAG;IWM
-2025-07-07,16:20:08,RITM,NASDAQ,Energy,H0538,Leadership Change,Social Media,Negative,0.781,0.97,
-2025-07-07,15:30:34,IBM,LSE,Healthcare,H0539,Product Launch,Benzinga,Negative,0.623,0.7,WYNN;OSCR;EC
-2025-07-07,15:30:34,TSN,LSE,Healthcare,H0539,Product Launch,Benzinga,Negative,0.623,0.7,BHP;KEYS;VIR
-2025-07-07,15:30:34,PEG,LSE,Healthcare,H0539,Product Launch,Benzinga,Negative,0.623,0.7,PAGS;LIN;CTAS;HAFN
-2025-07-07,16:47:13,KEYS,NASDAQ,Industrial,H0540,M&A,Bloomberg,Negative,0.416,0.9,DHR;NYMT;PTLO;EEM
-2025-07-07,11:07:04,FOLD,NYSE,Utilities,H0541,Leadership Change,WSJ,Positive,0.165,0.71,FLYW;BSX;SONY
-2025-07-07,09:52:11,HSY,NYSE MKT,Energy,H0542,Rumor,Social Media,Negative,0.439,0.75,MT;DOCU;XLG;CMS
-2025-07-07,09:33:23,BFLY,NASDAQ,Utilities,H0543,Product Launch,Social Media,Positive,0.427,0.5,
-2025-07-07,09:08:18,LDOS,NASDAQ,Consumer Discretionary,H0544,Regulation,Social Media,Negative,0.556,0.78,ATO;CRVS;FITB
-2025-07-07,09:33:14,KURA,LSE,Energy,H0545,Macroeconomic,Social Media,Negative,0.378,0.73,GIS
-2025-07-07,09:33:14,SHO,LSE,Energy,H0545,Macroeconomic,Social Media,Negative,0.378,0.73,VSTE;SMH;IGT
-2025-07-07,09:33:14,VSCO,LSE,Energy,H0545,Macroeconomic,Social Media,Negative,0.378,0.73,FROG;NABL;HLN;BSY
-2025-07-07,09:33:14,PLUG,LSE,Energy,H0545,Macroeconomic,Social Media,Negative,0.378,0.73,NEE;LRCX;GFS;BVN;PACK
-2025-07-07,09:33:14,SHOO,LSE,Energy,H0545,Macroeconomic,Social Media,Negative,0.378,0.73,HBAN;DNA;BLOK;BWXT;CHRD
-2025-07-07,14:16:16,SDRL,BATS,Industrial,H0546,Earnings,Bloomberg,Positive,0.79,0.53,IJH
-2025-07-07,11:40:11,IEUR,BATS,Energy,H0547,Regulation,Bloomberg,Positive,0.964,0.79,
-2025-07-07,13:58:11,LBTYK,NYSE MKT,Real Estate,H0548,Regulation,Reuters,Positive,0.72,0.66,SPTL
-2025-07-07,11:30:14,WEN,NASDAQ,Healthcare,H0549,Leadership Change,Benzinga,Negative,0.426,0.71,SNPS;COTY;NWG;JEPQ;HAE
-2025-07-07,16:40:07,FEZ,NASDAQ,Finance,H0550,Regulation,Reuters,Positive,0.651,0.65,EOSE;HRTG;Z
-2025-07-07,11:56:27,VRRM,NYSE ARCA,Consumer Discretionary,H0551,Regulation,Social Media,Negative,0.242,0.68,CBRE
-2025-07-07,12:26:53,FEZ,NYSE,Energy,H0552,Leadership Change,Reuters,Neutral,0.681,0.58,
-2025-07-07,10:25:25,VRTX,NASDAQ,Industrial,H0553,Earnings,WSJ,Negative,0.159,0.79,SQQQ
-2025-07-07,10:25:25,SSNC,NASDAQ,Industrial,H0553,Earnings,WSJ,Negative,0.159,0.79,NABL;JBL;ES;EUFN
-2025-07-07,10:25:25,CAN,NASDAQ,Industrial,H0553,Earnings,WSJ,Negative,0.159,0.79,
-2025-07-07,10:25:25,UBS,NASDAQ,Industrial,H0553,Earnings,WSJ,Negative,0.159,0.79,OCGN
-2025-07-07,10:25:25,APTV,NASDAQ,Industrial,H0553,Earnings,WSJ,Negative,0.159,0.79,RIOT
-2025-07-07,12:36:36,CELH,LSE,Healthcare,H0554,Regulation,CNBC,Neutral,0.866,0.68,
-2025-07-07,09:12:51,INCY,NYSE ARCA,Utilities,H0555,Macroeconomic,Bloomberg,Neutral,0.809,0.5,SPSB;CRWD
-2025-07-07,10:59:08,TDOC,NYSE ARCA,Industrial,H0556,Macroeconomic,Benzinga,Negative,0.224,0.58,DHC;FIGS;NSC
-2025-07-07,15:59:52,AUTL,NYSE,Energy,H0557,Product Launch,WSJ,Positive,0.161,0.85,MBLY;GXO;TWLO;COWZ
-2025-07-07,13:22:01,LZ,LSE,Real Estate,H0558,Macroeconomic,Bloomberg,Negative,0.188,0.64,WSC;FIS
-2025-07-07,09:21:23,LXEO,NYSE ARCA,Real Estate,H0559,Rumor,CNBC,Negative,0.881,0.8,PPBI
-2025-07-07,14:33:35,OMCL,NYSE ARCA,Technology,H0560,Product Launch,CNBC,Negative,0.94,0.97,
-2025-07-07,14:17:39,TEAM,NASDAQ,Industrial,H0561,Macroeconomic,WSJ,Negative,0.504,0.59,DTM;SPYU
-2025-07-07,09:37:15,CVNA,LSE,Telecom,H0562,Rumor,Reuters,Neutral,0.815,0.77,MREO;FSLR;AMZU
-2025-07-07,16:01:13,ECVT,NYSE MKT,Consumer Discretionary,H0563,Product Launch,Bloomberg,Negative,0.142,0.87,
-2025-07-07,12:15:19,RDN,NYSE ARCA,Healthcare,H0564,Rumor,Reuters,Positive,0.518,0.73,PGNY;CCO;TCAF;HTZ
-2025-07-07,09:50:13,TPG,NASDAQ,Telecom,H0565,Macroeconomic,Bloomberg,Positive,0.332,0.59,
-2025-07-07,14:04:37,DENN,BATS,Real Estate,H0566,Rumor,CNBC,Negative,0.137,0.95,APPN
-2025-07-07,16:35:48,ONON,LSE,Consumer Discretionary,H0567,Rumor,CNBC,Neutral,0.207,0.5,ROL;LVS;MUB;COO;YINN
-2025-07-07,16:58:51,BTOG,NYSE ARCA,Finance,H0568,M&A,Bloomberg,Neutral,0.589,0.59,SHOO;TTEK;SSB;SPG;PZZA
-2025-07-07,14:46:15,CXM,LSE,Telecom,H0569,Product Launch,CNBC,Positive,0.461,0.75,FBND;CNQ;TGTX
-2025-07-07,10:51:14,LBRT,NYSE,Technology,H0570,Regulation,Bloomberg,Neutral,0.593,0.97,TAC;GRAL;SHAK
-2025-07-07,15:26:09,METU,BATS,Telecom,H0571,Product Launch,Bloomberg,Negative,0.608,0.71,SPHR;LC
-2025-07-07,09:28:52,BOX,NASDAQ,Finance,H0572,M&A,Social Media,Negative,0.576,0.88,CHDN
-2025-07-07,16:27:22,BRBR,NASDAQ,Industrial,H0573,Rumor,Benzinga,Negative,0.212,0.52,RCAT
-2025-07-07,09:04:58,CYTK,BATS,Healthcare,H0574,Regulation,Reuters,Positive,0.787,0.98,KURA;EXPD
-2025-07-07,12:52:24,FR,NYSE ARCA,Energy,H0575,M&A,CNBC,Positive,0.294,0.88,LNT
-2025-07-07,10:23:10,DJT,NYSE MKT,Consumer Discretionary,H0576,Macroeconomic,Bloomberg,Positive,0.192,0.64,
-2025-07-07,16:27:34,BALL,LSE,Telecom,H0577,Earnings,Social Media,Positive,0.64,0.96,GDHG;MIDD;MODG;SBUX
-2025-07-07,11:29:41,EOG,NYSE,Technology,H0578,Earnings,Benzinga,Negative,0.393,0.6,TGT;T;LYG
-2025-07-07,10:40:19,GDHG,NYSE ARCA,Healthcare,H0579,M&A,Social Media,Positive,0.706,0.52,IWR;PDM;MP;DJT
-2025-07-07,13:14:31,NOMD,NYSE MKT,Industrial,H0580,Earnings,Reuters,Negative,0.511,0.64,TQQQ;PHYS;VZLA;RDY
-2025-07-07,14:22:33,RZLT,NYSE ARCA,Utilities,H0581,Earnings,CNBC,Negative,0.96,0.79,
-2025-07-07,10:00:32,NVDL,NYSE ARCA,Energy,H0582,Regulation,Bloomberg,Neutral,0.342,0.76,EAT;MS
-2025-07-07,09:43:25,RGTI,BATS,Energy,H0583,Earnings,Reuters,Positive,0.393,0.6,
-2025-07-07,12:46:08,MSOS,NYSE,Utilities,H0584,M&A,CNBC,Positive,0.591,0.93,
-2025-07-07,09:36:18,IYE,NYSE,Real Estate,H0585,M&A,Reuters,Negative,0.556,0.83,SIBN;CGNX;TSLZ
-2025-07-07,12:46:50,IAU,NYSE MKT,Industrial,H0586,Leadership Change,CNBC,Positive,0.195,0.81,PINS
-2025-07-07,16:39:40,BYD,NYSE MKT,Finance,H0587,Earnings,Social Media,Positive,0.266,0.94,SW;HE
-2025-07-07,14:15:06,ECL,NYSE,Technology,H0588,Rumor,Benzinga,Negative,0.922,0.98,
-2025-07-07,14:15:06,FCX,NYSE,Technology,H0588,Rumor,Benzinga,Negative,0.922,0.98,LNTH;RZLT;MUB;SPXL
-2025-07-07,14:15:06,PHIO,NYSE,Technology,H0588,Rumor,Benzinga,Negative,0.922,0.98,
-2025-07-07,11:11:26,KR,NYSE,Healthcare,H0589,Rumor,Reuters,Positive,0.81,0.7,
-2025-07-07,09:19:23,ICHR,NYSE MKT,Finance,H0590,Macroeconomic,Bloomberg,Neutral,0.355,0.75,ARRY
-2025-07-07,15:11:47,BNTX,BATS,Utilities,H0591,Macroeconomic,Social Media,Positive,0.764,0.58,
-2025-07-07,13:16:03,SNY,NYSE MKT,Utilities,H0592,Macroeconomic,Benzinga,Neutral,0.5,0.98,BOIL;KSA
-2025-07-07,14:04:38,DOW,NYSE MKT,Telecom,H0593,Macroeconomic,Benzinga,Positive,0.473,0.79,RELY;IAG;FN;APTV;NBIX
-2025-07-07,09:37:51,GDHG,NYSE MKT,Telecom,H0594,Regulation,CNBC,Positive,0.661,0.95,CCCS;TEL
-2025-07-07,09:51:08,VCYT,BATS,Consumer Discretionary,H0595,Regulation,Benzinga,Positive,0.324,0.51,ANGI;ETN;FLOT;TDUP
-2025-07-07,15:33:19,MRVL,NASDAQ,Industrial,H0596,Regulation,CNBC,Negative,0.18,0.66,UBER;CG;VIK;DVAX;SHV
-2025-07-07,09:42:51,IR,NYSE ARCA,Utilities,H0597,Rumor,Bloomberg,Positive,0.74,0.79,FANG
-2025-07-07,11:09:18,UE,NASDAQ,Telecom,H0598,Leadership Change,Bloomberg,Neutral,0.74,0.67,PSA;EVER;HAIN
-2025-07-07,13:53:34,NWG,NYSE MKT,Real Estate,H0599,Macroeconomic,Reuters,Neutral,0.673,0.67,MINT;DKS;CNH
-2025-07-07,09:13:57,TXG,NYSE,Consumer Discretionary,H0600,Regulation,WSJ,Neutral,0.629,0.9,LEG;VSTE
-2025-07-07,11:27:05,FLG,LSE,Finance,H0601,Rumor,WSJ,Neutral,0.264,0.92,KMX;NVDL;VTRS;SCHF;SU
-2025-07-07,11:05:33,PPL,NYSE,Real Estate,H0602,M&A,Social Media,Negative,0.562,0.55,
-2025-07-07,13:01:35,SERV,NYSE ARCA,Utilities,H0603,M&A,Social Media,Negative,0.832,0.55,EXPI;RYN
-2025-07-07,16:02:50,WEC,NYSE MKT,Healthcare,H0604,Macroeconomic,Benzinga,Positive,0.368,0.65,LINE;RIG
-2025-07-07,11:57:21,FEZ,NASDAQ,Utilities,H0605,Leadership Change,CNBC,Negative,0.685,0.86,
-2025-07-07,15:31:57,FOXA,LSE,Finance,H0606,Product Launch,Reuters,Positive,0.404,0.88,Z
-2025-07-07,09:16:53,DTE,NYSE,Utilities,H0607,Rumor,CNBC,Positive,0.402,0.66,NWSA;LNG
-2025-07-07,16:13:29,NVNI,NYSE,Telecom,H0608,Product Launch,Reuters,Positive,0.955,0.83,SPRY;TSLQ;OVV;EJH
-2025-07-07,16:09:34,OCUL,NYSE,Industrial,H0609,Product Launch,WSJ,Negative,0.585,0.74,BCRX;GRPN
-2025-07-07,09:34:38,UTZ,NASDAQ,Energy,H0610,Earnings,WSJ,Positive,0.78,0.64,EXAS;CHTR;GNL;TNDM
-2025-07-07,12:14:50,CIG,NYSE MKT,Real Estate,H0611,Rumor,Bloomberg,Negative,0.285,0.97,
-2025-07-07,13:43:14,TSLR,NYSE,Utilities,H0612,Earnings,Reuters,Positive,0.355,0.68,SPOT;XLP
-2025-07-07,13:18:07,WOLF,NYSE ARCA,Finance,H0613,Earnings,Bloomberg,Negative,0.419,0.57,FUN
-2025-07-07,14:38:54,AMZN,NYSE ARCA,Industrial,H0614,Leadership Change,Bloomberg,Negative,0.913,0.83,EFA;NSC;MCHI;MNKD;OSCR
-2025-07-07,13:28:55,BFLY,NYSE,Utilities,H0615,Macroeconomic,Benzinga,Negative,0.289,0.91,
-2025-07-07,16:50:02,CHX,BATS,Real Estate,H0616,Macroeconomic,CNBC,Positive,0.845,0.8,
-2025-07-07,15:16:27,LUV,NYSE,Finance,H0617,M&A,CNBC,Positive,0.609,0.56,TT;IUSB;SDOW;OEC
-2025-07-07,15:16:27,CRGY,NYSE,Finance,H0617,M&A,CNBC,Positive,0.609,0.56,RERE;CPS
-2025-07-07,15:16:27,RARE,NYSE,Finance,H0617,M&A,CNBC,Positive,0.609,0.56,
-2025-07-07,15:16:27,NG,NYSE,Finance,H0617,M&A,CNBC,Positive,0.609,0.56,XLY
-2025-07-07,15:16:27,SCI,NYSE,Finance,H0617,M&A,CNBC,Positive,0.609,0.56,HBAN
-2025-07-07,14:29:46,ATAI,BATS,Finance,H0618,Rumor,CNBC,Negative,0.869,0.86,
-2025-07-07,12:54:32,PACB,NYSE ARCA,Consumer Discretionary,H0619,Leadership Change,Bloomberg,Negative,0.589,0.95,CLS;SNDX;SCHD
-2025-07-07,15:56:15,HAS,BATS,Industrial,H0620,Macroeconomic,Benzinga,Positive,0.348,0.98,LYV;IRM
-2025-07-07,13:21:34,GPK,NYSE MKT,Utilities,H0621,Leadership Change,Social Media,Negative,0.835,0.55,TXT
-2025-07-07,09:49:30,FOLD,NASDAQ,Consumer Discretionary,H0622,Macroeconomic,Reuters,Negative,0.177,0.52,DE
-2025-07-07,09:14:02,UMC,LSE,Consumer Discretionary,H0623,Product Launch,Bloomberg,Neutral,0.594,0.77,
-2025-07-07,14:37:47,EXC,BATS,Healthcare,H0624,Macroeconomic,Social Media,Negative,0.789,0.86,
-2025-07-07,09:40:13,VOO,NYSE ARCA,Finance,H0625,Rumor,Bloomberg,Positive,0.901,0.68,AU
-2025-07-07,10:57:28,NTR,LSE,Consumer Discretionary,H0626,M&A,Social Media,Neutral,0.1,0.66,TWO
-2025-07-07,15:34:05,GOF,LSE,Technology,H0627,Macroeconomic,CNBC,Negative,0.29,0.91,COMP;BBVA;ECX;FOLD;VERA
-2025-07-07,12:53:41,VUG,NYSE MKT,Industrial,H0628,Rumor,CNBC,Positive,0.84,0.7,EWJ;SPIB;EXAS;NDAQ
-2025-07-07,13:08:42,MAN,NYSE,Utilities,H0629,Macroeconomic,CNBC,Positive,0.123,0.53,RELX;SIL;ORN
-2025-07-07,14:22:38,CSCO,BATS,Industrial,H0630,Leadership Change,Reuters,Negative,0.854,0.8,SMTC;ANGI;DEO;JBI;CERT
-2025-07-07,10:18:36,RH,NYSE,Energy,H0631,Leadership Change,Social Media,Neutral,0.55,0.73,TU;SHLS;JHG;DOCN;CDW
-2025-07-07,12:34:55,URBN,NYSE MKT,Healthcare,H0632,Regulation,WSJ,Positive,0.909,0.88,CORZ;CX;KR;VT;PDBC
-2025-07-07,10:33:52,VOD,NYSE ARCA,Energy,H0633,Macroeconomic,Bloomberg,Positive,0.619,0.84,ILMN;PEB;DFAS;DFAE
-2025-07-07,15:32:23,XLRE,NYSE MKT,Healthcare,H0634,M&A,Bloomberg,Positive,0.903,0.58,METU;TK;AVEM;IYR
-2025-07-07,09:21:33,NSC,LSE,Real Estate,H0635,Product Launch,Reuters,Negative,0.653,0.94,KSS
-2025-07-07,11:56:47,SRLN,BATS,Technology,H0636,Regulation,Bloomberg,Neutral,0.365,0.99,MIR;XNCR;PHYS
-2025-07-07,13:14:05,SLM,LSE,Consumer Discretionary,H0637,Regulation,CNBC,Negative,0.337,0.76,
-2025-07-07,16:23:49,GEVO,NASDAQ,Industrial,H0638,Regulation,Benzinga,Positive,0.141,0.82,IBIT;TROX;CRVS;IEI;NOMD
-2025-07-07,16:23:49,PAGS,NASDAQ,Industrial,H0638,Regulation,Benzinga,Positive,0.141,0.82,KAR
-2025-07-07,16:23:49,ASHR,NASDAQ,Industrial,H0638,Regulation,Benzinga,Positive,0.141,0.82,CURI;MA
-2025-07-07,12:34:31,TTE,NYSE,Consumer Discretionary,H0639,Product Launch,WSJ,Negative,0.919,0.78,COP;VRRM;TXRH;TWST
-2025-07-07,15:20:11,RXRX,NYSE,Industrial,H0640,Rumor,CNBC,Positive,0.229,0.5,BEPC;LRCX
-2025-07-07,15:07:33,IP,NYSE MKT,Healthcare,H0641,Leadership Change,Reuters,Neutral,0.548,0.55,RXST;AUR
-2025-07-07,15:22:46,PHYS,NYSE MKT,Technology,H0642,M&A,Reuters,Negative,0.358,0.55,OXLC;CF;TME
-2025-07-07,14:14:33,ED,BATS,Energy,H0643,Macroeconomic,CNBC,Positive,0.944,0.82,CFG;MYGN;SSO
-2025-07-07,14:05:36,RCUS,LSE,Consumer Discretionary,H0644,Earnings,Benzinga,Negative,0.121,0.71,EC;NVDD;INDA
-2025-07-07,13:14:02,KWEB,NYSE ARCA,Healthcare,H0645,Macroeconomic,Benzinga,Positive,0.164,0.52,SCHV;RYAN;NET;QCOM;BINC
-2025-07-07,12:18:37,CFG,BATS,Technology,H0646,Earnings,Reuters,Positive,0.779,0.67,WDS;GTLB;PLTU;CWAN
-2025-07-07,09:56:31,HPP,NYSE,Industrial,H0647,M&A,Social Media,Positive,0.422,0.74,
-2025-07-07,15:42:17,LUMN,NYSE ARCA,Finance,H0648,Leadership Change,Bloomberg,Neutral,0.437,0.7,SILJ;MTSR;CDRE;CPRT;FLR
-2025-07-07,14:02:56,DT,LSE,Real Estate,H0649,Earnings,Reuters,Positive,0.847,0.8,COOP;CL;FAS;QBTS;SMCX
-2025-07-07,13:57:31,XERS,NYSE,Telecom,H0650,Leadership Change,WSJ,Positive,0.176,0.73,
-2025-07-07,10:24:58,OPCH,NYSE MKT,Industrial,H0651,M&A,Reuters,Negative,0.395,0.88,VSAT
-2025-07-07,13:23:26,DENN,NYSE MKT,Industrial,H0652,Rumor,Bloomberg,Negative,0.178,0.54,CCL;HOLX;NAK
-2025-07-07,16:04:00,XLY,NASDAQ,Industrial,H0653,M&A,Social Media,Positive,0.527,0.63,UMAC;BTSG;FNDA;TSM
-2025-07-07,09:59:23,KLG,BATS,Energy,H0654,Rumor,WSJ,Neutral,0.894,0.98,IWN;DTM;ORN
-2025-07-07,12:15:18,RIO,NASDAQ,Healthcare,H0655,Leadership Change,Benzinga,Positive,0.992,0.84,ERJ;CX;TSN
-2025-07-07,11:05:58,FTK,NYSE,Technology,H0656,Macroeconomic,CNBC,Negative,0.659,0.57,SMCY;LAC;VLRS;TTWO
-2025-07-07,16:21:10,WYNN,BATS,Technology,H0657,Product Launch,Social Media,Negative,0.778,0.86,TROX;DNN;UBS;SSRM
-2025-07-07,14:19:34,BITX,NYSE ARCA,Healthcare,H0658,Leadership Change,Reuters,Negative,0.722,0.77,LSPD
-2025-07-07,15:24:41,IYE,NYSE MKT,Finance,H0659,Macroeconomic,Reuters,Negative,0.209,0.81,STNE
-2025-07-07,13:27:38,PAGS,NYSE,Healthcare,H0660,Earnings,Benzinga,Positive,0.342,0.82,EQNR;NOW;DHT;QFIN
-2025-07-07,14:19:17,KD,NYSE MKT,Technology,H0661,Rumor,Social Media,Neutral,0.257,0.64,GNLN;FNDA;FBTC;RLAY;PULS
-2025-07-07,12:05:29,VALE,NYSE,Industrial,H0662,Regulation,Bloomberg,Negative,0.119,0.84,
-2025-07-07,14:14:34,FBIN,LSE,Technology,H0663,Macroeconomic,Benzinga,Positive,0.511,0.99,VKTX;GBDC;NWG;TOVX
-2025-07-07,09:02:32,DOCN,BATS,Telecom,H0664,Leadership Change,CNBC,Positive,0.361,0.6,SPHQ;FIVE;USO;HBI
-2025-07-07,16:17:46,SCHA,NYSE ARCA,Energy,H0665,M&A,Reuters,Positive,0.23,0.99,PTCT;COMP;VNO;TALK
-2025-07-07,12:00:53,RRX,LSE,Telecom,H0666,Rumor,Reuters,Neutral,0.223,0.69,KMT;NWL;GERN;RCI
-2025-07-07,14:59:49,TPR,NASDAQ,Technology,H0667,Product Launch,Reuters,Positive,0.241,0.89,DAY;SGOV;NVDQ;WHR;NVT
-2025-07-07,12:53:05,OMEX,NYSE ARCA,Real Estate,H0668,Product Launch,Bloomberg,Positive,0.564,0.78,PLTU;WW;ED
-2025-07-07,15:28:07,SYF,NYSE,Telecom,H0669,M&A,Bloomberg,Neutral,0.229,0.66,TRP;CFG
-2025-07-07,11:59:23,MFC,NYSE,Utilities,H0670,M&A,CNBC,Negative,0.605,0.71,OVV;GRRR;BG;HTZ
-2025-07-07,14:47:52,OR,LSE,Industrial,H0671,Rumor,Benzinga,Negative,0.358,0.56,KHC;CROX;LNG;BN;AZEK
-2025-07-07,16:19:05,EW,NASDAQ,Telecom,H0672,Rumor,Bloomberg,Positive,0.535,0.82,SCHE;COF
-2025-07-07,13:11:23,LFMD,NYSE ARCA,Consumer Discretionary,H0673,Product Launch,WSJ,Negative,0.353,0.54,
-2025-07-07,14:54:15,DAL,BATS,Utilities,H0674,M&A,Reuters,Positive,0.969,0.68,BNTX;JKHY;HE
-2025-07-07,11:57:18,FRSH,BATS,Telecom,H0675,M&A,CNBC,Negative,0.949,0.53,JBHT
-2025-07-07,13:41:15,SPSM,LSE,Industrial,H0676,Regulation,CNBC,Neutral,0.485,0.94,
-2025-07-07,12:12:27,RF,NYSE ARCA,Telecom,H0677,M&A,CNBC,Positive,0.238,0.83,VCYT
-2025-07-07,12:12:27,AQN,NYSE ARCA,Telecom,H0677,M&A,CNBC,Positive,0.238,0.83,KOPN;VLRS;UUUU;CISO;XIFR
-2025-07-07,12:12:27,YALA,NYSE ARCA,Telecom,H0677,M&A,CNBC,Positive,0.238,0.83,
-2025-07-07,12:12:27,BTG,NYSE ARCA,Telecom,H0677,M&A,CNBC,Positive,0.238,0.83,
-2025-07-07,13:32:09,EWZ,BATS,Healthcare,H0678,Product Launch,Bloomberg,Positive,0.515,0.8,ILMN;QSI;RCL;NLY;CPRT
-2025-07-07,14:30:34,BAM,NYSE MKT,Consumer Discretionary,H0679,Macroeconomic,Benzinga,Negative,0.981,0.92,LEGN;PL
-2025-07-07,09:26:51,GDHG,NYSE ARCA,Consumer Discretionary,H0680,Leadership Change,Reuters,Negative,0.878,0.88,
-2025-07-07,10:04:56,GRPN,BATS,Healthcare,H0681,Product Launch,Social Media,Positive,0.904,0.83,KVUE;CCJ;CNI;KC;PLTD
-2025-07-07,12:40:00,EXTR,LSE,Finance,H0682,Leadership Change,WSJ,Negative,0.376,0.82,
-2025-07-07,15:50:26,PSLV,NYSE,Consumer Discretionary,H0683,Leadership Change,CNBC,Positive,0.766,0.87,WRB
-2025-07-07,12:01:55,KEY,NYSE,Healthcare,H0684,Macroeconomic,CNBC,Negative,0.441,0.68,HST
-2025-07-07,14:08:33,HIG,NYSE ARCA,Real Estate,H0685,Earnings,Reuters,Neutral,0.583,0.7,FSS;IAUX;BNL;GE;SABR
-2025-07-07,11:31:46,HAFN,NYSE,Consumer Discretionary,H0686,Rumor,Reuters,Positive,0.322,0.54,
-2025-07-07,10:56:11,LNT,LSE,Energy,H0687,Earnings,Bloomberg,Positive,0.288,0.8,ODFL;CIG
-2025-07-07,11:17:35,CMP,NYSE ARCA,Telecom,H0688,Leadership Change,WSJ,Negative,0.369,1.0,VTRS;MBLY;ESTC
-2025-07-07,13:59:28,IVW,LSE,Technology,H0689,Macroeconomic,Reuters,Negative,0.298,0.79,OMC;FCX;DGRW;PONY
-2025-07-07,09:35:45,NBIX,NYSE,Telecom,H0690,Product Launch,Social Media,Negative,0.45,0.74,CHGG;TEF
-2025-07-07,10:29:35,ERJ,NASDAQ,Healthcare,H0691,Product Launch,Reuters,Positive,0.364,0.91,
-2025-07-07,16:12:00,SEM,BATS,Utilities,H0692,Regulation,WSJ,Negative,0.636,0.94,GLL;LFMD;BANC;DEI;ATAT
-2025-07-07,14:35:13,HBAN,NYSE MKT,Telecom,H0693,Rumor,Bloomberg,Positive,0.174,0.66,IREN;DINO;BAX
-2025-07-07,11:00:18,YALA,NYSE,Technology,H0694,M&A,Reuters,Positive,0.744,0.52,TIP;RZLV
-2025-07-07,13:37:59,CRNC,BATS,Healthcare,H0695,Earnings,Benzinga,Negative,0.405,0.82,JMIA;GNL
-2025-07-07,13:59:51,BAX,NYSE ARCA,Utilities,H0696,Macroeconomic,Benzinga,Positive,0.359,0.96,OVV;IQV
-2025-07-07,10:47:23,SIRI,NYSE MKT,Telecom,H0697,Macroeconomic,CNBC,Negative,0.476,0.77,
-2025-07-07,12:16:13,IBRX,LSE,Utilities,H0698,Product Launch,Social Media,Positive,0.116,0.8,GUNR;XLI;GPRO;SNPS
-2025-07-07,13:02:29,NWG,BATS,Real Estate,H0699,Regulation,WSJ,Positive,0.941,0.67,WEAV;SBH
-2025-07-07,13:34:58,SCHO,NYSE ARCA,Real Estate,H0700,Regulation,WSJ,Negative,0.488,0.54,OTIS;HPE;FENY;NVDY;GH
-2025-07-07,13:43:42,UVIX,NASDAQ,Telecom,H0701,M&A,Benzinga,Positive,0.916,0.64,AXTA;HBAN
-2025-07-07,13:12:28,SCHH,NYSE MKT,Consumer Discretionary,H0702,Regulation,Reuters,Negative,0.276,0.5,EDU;DT;CYTK;SVIX;TSCO
-2025-07-07,10:32:20,KAR,BATS,Technology,H0703,Leadership Change,WSJ,Negative,0.827,0.92,KBH;BFLY;GDRX
-2025-07-07,15:52:34,ROST,NYSE MKT,Real Estate,H0704,Rumor,Social Media,Positive,0.197,0.94,DKNG
-2025-07-07,10:09:10,PHM,LSE,Healthcare,H0705,Rumor,Bloomberg,Neutral,0.867,1.0,GFI;NWL
-2025-07-07,11:17:33,DFLV,NASDAQ,Finance,H0706,Earnings,Reuters,Negative,0.848,0.85,FI
-2025-07-07,09:59:51,MA,NASDAQ,Telecom,H0707,Leadership Change,Social Media,Positive,0.795,0.51,CCCS;VT;BWA
-2025-07-07,11:27:01,MTDR,NASDAQ,Finance,H0708,M&A,WSJ,Negative,0.615,0.86,ORC;CCCC;CUBE
-2025-07-07,13:16:07,VNQ,NASDAQ,Utilities,H0709,Product Launch,Benzinga,Neutral,0.975,0.63,KTOS;IVR;FLUT;EPI;PGR
-2025-07-07,11:03:58,TBLA,BATS,Industrial,H0710,M&A,WSJ,Positive,0.32,0.6,PSEC;NUE;CCEP
-2025-07-07,12:22:56,BROS,BATS,Real Estate,H0711,Macroeconomic,Bloomberg,Negative,0.562,0.96,
-2025-07-07,16:30:23,PCT,NYSE ARCA,Telecom,H0712,Product Launch,Benzinga,Negative,0.369,1.0,XOM
-2025-07-07,13:55:53,AVY,NYSE ARCA,Consumer Discretionary,H0713,Product Launch,WSJ,Negative,0.837,0.77,BRKR;SKX;NIO;HLF;ROST
-2025-07-07,10:55:23,SUI,NYSE MKT,Telecom,H0714,Macroeconomic,Benzinga,Negative,0.487,0.95,
-2025-07-07,15:19:31,QLD,BATS,Telecom,H0715,M&A,WSJ,Neutral,0.363,0.58,GEV;VEU;THS;LVS
-2025-07-07,13:50:36,PFG,NYSE MKT,Energy,H0716,Leadership Change,Social Media,Negative,0.775,0.6,
-2025-07-07,15:09:22,CRS,LSE,Energy,H0717,Leadership Change,Bloomberg,Negative,0.809,0.99,VOO;HBM;NDAQ;MAGN;BBIO
-2025-07-07,15:35:48,FARO,NYSE ARCA,Consumer Discretionary,H0718,Macroeconomic,Bloomberg,Negative,0.797,0.95,NOW;ROIV;HCC;CNC;LW
-2025-07-07,14:37:37,MRP,LSE,Telecom,H0719,Earnings,Bloomberg,Positive,1.0,0.62,AVTR;SYK
-2025-07-07,14:37:37,YPF,LSE,Telecom,H0719,Earnings,Bloomberg,Positive,1.0,0.62,BSY;D
-2025-07-07,14:37:37,PHG,LSE,Telecom,H0719,Earnings,Bloomberg,Positive,1.0,0.62,
-2025-07-07,14:37:37,AZTA,LSE,Telecom,H0719,Earnings,Bloomberg,Positive,1.0,0.62,
-2025-07-07,14:23:21,MGNI,BATS,Telecom,H0720,Product Launch,CNBC,Negative,0.329,0.7,GFI;CSTM;LFMD
-2025-07-07,13:04:15,MC,NYSE ARCA,Finance,H0721,Rumor,Bloomberg,Positive,0.955,0.64,RRC
-2025-07-07,14:33:13,KODK,LSE,Energy,H0722,Macroeconomic,CNBC,Negative,0.821,0.86,SO;KRC;FUBO;VDC;RDN
-2025-07-07,09:57:05,GRPN,NYSE MKT,Finance,H0723,Leadership Change,Social Media,Positive,0.547,0.5,AXP;GOOG;WOLF
-2025-07-07,11:33:29,WGS,NYSE,Finance,H0724,Regulation,WSJ,Negative,0.561,0.52,
-2025-07-07,13:56:31,SES,NASDAQ,Energy,H0725,M&A,Reuters,Positive,0.827,0.81,IRWD;EBC
-2025-07-07,12:48:59,JHG,NYSE ARCA,Telecom,H0726,Leadership Change,Bloomberg,Positive,0.407,0.9,VOYA;NVDD
-2025-07-07,10:01:40,IVR,LSE,Healthcare,H0727,Leadership Change,Social Media,Negative,0.978,0.92,ULCC
-2025-07-07,10:55:38,MBC,NYSE ARCA,Utilities,H0728,Leadership Change,Bloomberg,Negative,0.239,0.76,PAGS
-2025-07-07,13:29:16,BE,NYSE ARCA,Industrial,H0729,Leadership Change,Social Media,Negative,0.812,0.73,SCHE;MATX
-2025-07-07,10:35:12,CCCC,NYSE ARCA,Technology,H0730,Rumor,CNBC,Negative,0.378,0.54,ASB;LEGN;PTCT;TDOC
-2025-07-07,14:41:25,SNOW,NYSE ARCA,Real Estate,H0731,Product Launch,Reuters,Negative,0.723,0.65,MRX
-2025-07-07,15:38:52,GEO,NASDAQ,Energy,H0732,Rumor,WSJ,Negative,0.557,0.63,TOL;SEZL;HOLO;PYPL;PATH
-2025-07-07,13:28:18,VNET,NYSE MKT,Finance,H0733,Leadership Change,WSJ,Neutral,0.763,0.89,CNEY;SPY;FEZ;DOCU;ESNT
-2025-07-07,16:35:12,WU,NYSE MKT,Finance,H0734,Rumor,Bloomberg,Positive,0.58,0.71,RGNX;DRH;REM
-2025-07-07,16:16:26,CCEP,NYSE ARCA,Healthcare,H0735,Leadership Change,Reuters,Negative,0.932,0.5,INZY;GPN;NG
-2025-07-07,12:33:46,LC,NYSE,Finance,H0736,Regulation,Bloomberg,Positive,0.389,0.57,
-2025-07-07,13:55:03,LYEL,NYSE MKT,Technology,H0737,Regulation,CNBC,Positive,0.727,0.93,PYLD;CLSK
-2025-07-07,10:46:04,VTWO,NYSE ARCA,Consumer Discretionary,H0738,Leadership Change,CNBC,Positive,0.244,0.56,DB;HMY
-2025-07-07,14:19:11,FLNC,NASDAQ,Industrial,H0739,Product Launch,Bloomberg,Positive,0.468,0.62,TXG;SRAD;FIGS;FLOT;TCAF
-2025-07-07,16:04:18,VONG,NYSE MKT,Telecom,H0740,Earnings,Bloomberg,Neutral,0.175,0.83,GENI;BWA;SKT;RIVN;NGG
-2025-07-07,12:12:11,DNOW,BATS,Energy,H0741,Rumor,Reuters,Neutral,0.824,0.94,LNT;OCUL;FSM;RZLT
-2025-07-07,15:09:33,IUSB,LSE,Telecom,H0742,Regulation,Social Media,Neutral,0.705,0.59,ICL;SCHV;BLMN;QXO
-2025-07-07,14:11:10,DNB,NYSE,Finance,H0743,Macroeconomic,CNBC,Negative,0.738,0.99,Z
-2025-07-07,13:38:56,SPYI,NYSE ARCA,Real Estate,H0744,M&A,Benzinga,Negative,0.288,0.84,URTY;TSN;S;OMC
-2025-07-07,11:35:39,SSO,NYSE ARCA,Energy,H0745,Rumor,WSJ,Neutral,0.336,0.53,GS;CHGG
-2025-07-07,12:30:49,CURI,NYSE MKT,Consumer Discretionary,H0746,Regulation,WSJ,Positive,0.289,0.84,LOW
-2025-07-07,15:57:57,SOXX,NYSE ARCA,Real Estate,H0747,Rumor,Social Media,Neutral,0.321,0.71,TOST
-2025-07-07,15:54:44,UWMC,NYSE MKT,Industrial,H0748,Rumor,Benzinga,Positive,0.377,0.57,PFGC;EOG;BLOK
-2025-07-07,15:26:39,TTI,NASDAQ,Real Estate,H0749,Leadership Change,WSJ,Negative,0.144,0.6,PLTK;ARKB;LFST
-2025-07-07,09:12:31,FTV,NYSE,Industrial,H0750,Macroeconomic,Bloomberg,Positive,0.121,0.93,
-2025-07-07,15:11:20,HGV,LSE,Telecom,H0751,M&A,Social Media,Positive,0.561,0.76,ET;LI
-2025-07-07,15:35:35,F,BATS,Consumer Discretionary,H0752,Macroeconomic,Social Media,Negative,0.738,0.67,
-2025-07-07,15:35:35,JPST,BATS,Consumer Discretionary,H0752,Macroeconomic,Social Media,Negative,0.738,0.67,
-2025-07-07,16:58:00,DENN,NYSE MKT,Energy,H0753,Rumor,Benzinga,Positive,0.634,0.87,UDR
-2025-07-07,14:29:17,BTBT,NYSE,Energy,H0754,Leadership Change,Reuters,Negative,0.107,0.93,EXTR;TKR;XME
-2025-07-07,10:33:29,KC,BATS,Finance,H0755,Regulation,Benzinga,Negative,0.393,0.68,COF;GSM;UNIT;COWZ;APA
-2025-07-07,10:04:24,REZI,NYSE,Consumer Discretionary,H0756,Regulation,Social Media,Neutral,0.929,0.76,RLX
-2025-07-07,15:20:26,KD,NYSE ARCA,Real Estate,H0757,Product Launch,Reuters,Neutral,0.157,0.8,LBTYA;VSH;VXX;GLL
-2025-07-07,09:57:48,SOLV,NASDAQ,Healthcare,H0758,Product Launch,CNBC,Negative,0.787,0.75,
-2025-07-07,11:29:01,TPG,LSE,Consumer Discretionary,H0759,Regulation,WSJ,Neutral,0.973,0.65,QQQM;TDW;MUFG;IQ
-2025-07-07,15:18:54,FR,LSE,Real Estate,H0760,M&A,Benzinga,Neutral,0.938,0.9,DHF;JAMF;GENI;TALO;CL
-2025-07-07,12:44:10,NVST,NYSE MKT,Industrial,H0761,Regulation,Social Media,Neutral,0.343,0.65,UNIT;MEGL;SSB
-2025-07-07,13:37:00,SPXU,NYSE MKT,Consumer Discretionary,H0762,Regulation,Reuters,Neutral,0.847,0.79,GPN;MAR;SEAT;UNP
-2025-07-07,13:05:50,RGTI,LSE,Consumer Discretionary,H0763,Rumor,Social Media,Positive,0.864,0.6,HAIN;RDDT;IOVA;BRO;GPK
-2025-07-07,14:56:51,ROL,BATS,Consumer Discretionary,H0764,Leadership Change,Bloomberg,Positive,0.499,0.74,
-2025-07-07,16:03:58,ATEC,NYSE MKT,Consumer Discretionary,H0765,M&A,Benzinga,Negative,0.412,0.59,ASTS;LULU
-2025-07-07,10:58:18,GEVO,BATS,Energy,H0766,Macroeconomic,Bloomberg,Neutral,0.139,0.51,PHG;USB
-2025-07-07,14:19:09,PLTK,NYSE ARCA,Consumer Discretionary,H0767,Macroeconomic,Social Media,Negative,0.298,0.89,TROW;PDD;YETI;IAG
-2025-07-07,12:17:30,BOIL,LSE,Utilities,H0768,Earnings,Social Media,Negative,0.237,0.68,URBN;VST;AREB;HSY
-2025-07-07,10:06:01,MOS,BATS,Telecom,H0769,Regulation,CNBC,Neutral,0.612,0.89,NVDL;SIL
-2025-07-07,10:21:26,RCAT,NYSE MKT,Real Estate,H0770,Earnings,Reuters,Negative,0.234,0.71,SOXX;RXO;C;GDS;IMTX
-2025-07-07,10:17:39,ENTG,LSE,Industrial,H0771,Leadership Change,Social Media,Neutral,0.67,0.78,ST;DGX;PSTG;WRBY;QYLD
-2025-07-07,09:48:41,CIG,BATS,Telecom,H0772,M&A,Reuters,Positive,0.512,0.61,
-2025-07-07,09:30:57,SQM,NYSE MKT,Utilities,H0773,Product Launch,Social Media,Negative,0.44,0.76,
-2025-07-07,10:10:20,DRH,NYSE,Energy,H0774,Earnings,Social Media,Positive,0.842,0.88,CNQ;CHDN
-2025-07-07,16:26:02,OUNZ,NYSE ARCA,Industrial,H0775,M&A,Reuters,Neutral,0.351,0.93,AZN;SPY;RES;NVDD
-2025-07-07,11:50:42,NYT,BATS,Real Estate,H0776,Earnings,Bloomberg,Negative,0.92,0.55,SRAD
-2025-07-07,16:38:13,CAG,NYSE MKT,Real Estate,H0777,Product Launch,Reuters,Positive,0.622,0.94,MP;KKR;GOOGL;OWL;BL
-2025-07-07,11:25:28,LYEL,NYSE MKT,Consumer Discretionary,H0778,Product Launch,Bloomberg,Negative,0.8,0.97,FSK
-2025-07-07,11:02:49,STM,NYSE ARCA,Finance,H0779,Leadership Change,Reuters,Positive,0.602,0.91,VRN;MBC
-2025-07-07,16:05:41,KIND,BATS,Real Estate,H0780,Regulation,Benzinga,Positive,0.414,0.64,FBND;CRGY
-2025-07-07,11:31:08,PYLD,NYSE ARCA,Healthcare,H0781,Regulation,Reuters,Negative,0.415,0.83,SPYG
-2025-07-07,09:27:03,DRI,BATS,Real Estate,H0782,Earnings,Social Media,Positive,0.262,0.69,DDL;EZU
-2025-07-07,11:27:54,CISO,NYSE ARCA,Real Estate,H0783,Regulation,Reuters,Negative,0.842,0.6,
-2025-07-07,11:29:47,VGIT,NYSE ARCA,Consumer Discretionary,H0784,Product Launch,Benzinga,Positive,0.452,0.57,
-2025-07-07,12:34:12,OC,NASDAQ,Finance,H0785,Macroeconomic,Reuters,Positive,0.921,0.59,ARES
-2025-07-07,15:43:25,WULF,NASDAQ,Telecom,H0786,Macroeconomic,Social Media,Neutral,0.797,0.98,JCI;OPK;SNY;CAL
-2025-07-07,10:42:54,VVV,NYSE,Real Estate,H0787,Macroeconomic,Benzinga,Negative,0.348,0.53,TECL;JPST;ARKK
-2025-07-07,09:19:58,EOG,NYSE,Energy,H0788,Product Launch,WSJ,Negative,0.734,0.95,VERX
-2025-07-07,15:51:53,AUR,NASDAQ,Energy,H0789,Leadership Change,Social Media,Negative,0.861,0.58,
-2025-07-07,12:58:01,DAL,LSE,Consumer Discretionary,H0790,Leadership Change,CNBC,Neutral,0.417,0.86,IUSB;PTEN
-2025-07-07,16:10:06,EC,NASDAQ,Technology,H0791,Earnings,WSJ,Negative,0.687,0.9,FLEX;PCT;ARMK;SAIL
-2025-07-07,12:55:08,SCZ,NYSE ARCA,Real Estate,H0792,Product Launch,Benzinga,Negative,0.527,0.62,FOLD;TLH
-2025-07-07,16:03:45,AVB,NYSE,Consumer Discretionary,H0793,Macroeconomic,Social Media,Neutral,0.887,0.68,
-2025-07-07,09:49:45,VTWO,NYSE,Consumer Discretionary,H0794,Product Launch,Bloomberg,Negative,0.553,0.67,SLM;GOOGL;BFLY;WMG
-2025-07-07,09:42:55,VT,BATS,Telecom,H0795,Product Launch,Reuters,Positive,0.527,0.8,WBS
-2025-07-07,10:52:13,VVV,NYSE MKT,Energy,H0796,Regulation,CNBC,Positive,0.732,0.66,EWA
-2025-07-07,11:55:27,REAX,LSE,Utilities,H0797,Rumor,Benzinga,Positive,0.397,0.69,VGIT;SGOV
-2025-07-07,12:44:56,LEG,NASDAQ,Finance,H0798,Rumor,Social Media,Positive,0.671,0.75,UE;CENX;BA;TSLA
-2025-07-07,11:37:22,SAND,BATS,Industrial,H0799,M&A,WSJ,Neutral,0.807,0.77,BYD;DFLV;NTNX;IWD
-2025-07-07,12:07:15,PNR,LSE,Healthcare,H0800,Rumor,Benzinga,Negative,0.586,0.95,AREB;SHLS;VUG;SM
-2025-07-07,11:55:06,FLR,NASDAQ,Telecom,H0801,Leadership Change,Reuters,Negative,0.393,0.93,GRPN;IAC;CCL;SNDX
-2025-07-07,14:10:32,SRPT,LSE,Utilities,H0802,Product Launch,Social Media,Positive,0.743,0.84,BITB
-2025-07-07,13:12:43,SMMT,LSE,Finance,H0803,Regulation,Social Media,Neutral,0.769,0.65,GLDD;NNN;MSTX;DVN
-2025-07-07,14:00:35,GPRO,LSE,Consumer Discretionary,H0804,Earnings,Benzinga,Positive,0.546,0.71,FAST;HAL
-2025-07-07,13:14:20,MTCH,NYSE MKT,Healthcare,H0805,Rumor,Social Media,Negative,0.663,0.67,ZETA;WNC
-2025-07-07,09:18:44,JANX,NASDAQ,Healthcare,H0806,Leadership Change,Benzinga,Negative,0.961,0.65,EOLS
-2025-07-07,10:57:20,CELH,NYSE MKT,Industrial,H0807,Rumor,WSJ,Neutral,0.416,0.78,RGTI;COOP;PRQR
-2025-07-07,10:57:20,EAT,NYSE MKT,Industrial,H0807,Rumor,WSJ,Neutral,0.416,0.78,
-2025-07-07,10:57:20,SPSM,NYSE MKT,Industrial,H0807,Rumor,WSJ,Neutral,0.416,0.78,ZTS;EOSE;GGLL
-2025-07-07,11:03:00,MU,NYSE ARCA,Finance,H0808,M&A,CNBC,Neutral,0.55,0.94,
-2025-07-07,10:24:00,PTLO,NYSE,Energy,H0809,Macroeconomic,Reuters,Positive,0.347,0.88,IWF
-2025-07-07,10:24:00,SOFI,NYSE,Energy,H0809,Macroeconomic,Reuters,Positive,0.347,0.88,
-2025-07-07,10:24:00,FWONK,NYSE,Energy,H0809,Macroeconomic,Reuters,Positive,0.347,0.88,AON;RXST
-2025-07-07,10:24:00,TGB,NYSE,Energy,H0809,Macroeconomic,Reuters,Positive,0.347,0.88,USHY;SHAK;EW;QGEN;FAS
-2025-07-07,14:30:30,BTG,NYSE,Technology,H0810,Macroeconomic,Social Media,Negative,0.86,0.83,FE;NRDS;BRBR;OXLC;CRVS
-2025-07-07,10:37:49,LUNR,BATS,Technology,H0811,Earnings,Bloomberg,Positive,0.137,0.58,CAH;DRVN
-2025-07-07,10:26:37,SRPT,NASDAQ,Technology,H0812,M&A,CNBC,Positive,0.755,0.82,OTIS
-2025-07-07,15:55:29,PRQR,NYSE ARCA,Telecom,H0813,Regulation,WSJ,Positive,0.696,0.76,TAL;DTE
-2025-07-07,09:10:11,UNG,NYSE MKT,Real Estate,H0814,Product Launch,Bloomberg,Positive,0.838,0.71,DHR;LYFT;JAMF;PCAR
-2025-07-07,14:54:04,BTI,NYSE ARCA,Technology,H0815,Leadership Change,WSJ,Positive,0.449,0.66,ZIM;CNX
-2025-07-07,10:11:49,FSK,BATS,Healthcare,H0816,Macroeconomic,WSJ,Positive,0.855,0.84,BFLY;VTI
-2025-07-07,09:10:01,AORT,NASDAQ,Telecom,H0817,M&A,Benzinga,Positive,0.177,0.85,RGNX
-2025-07-07,13:40:33,TNYA,NASDAQ,Utilities,H0818,M&A,Social Media,Positive,0.583,0.94,IVW;NTR;PWR;NVT
-2025-07-07,12:40:08,CLOV,NYSE MKT,Energy,H0819,Product Launch,Social Media,Neutral,0.527,0.99,EPRT;SES;WCC
-2025-07-07,10:39:04,TSCO,NYSE MKT,Telecom,H0820,Macroeconomic,Reuters,Neutral,0.7,0.58,SNV
-2025-07-07,10:46:00,SANA,BATS,Industrial,H0821,Regulation,Benzinga,Positive,0.788,0.65,FRO;ECH
-2025-07-07,10:05:31,QXO,NYSE ARCA,Real Estate,H0822,Product Launch,CNBC,Neutral,0.923,0.86,SMFG;SHY
-2025-07-07,10:32:54,DG,BATS,Finance,H0823,Product Launch,Benzinga,Neutral,0.382,0.9,RSI;ORC
-2025-07-07,13:20:32,OLO,NYSE,Real Estate,H0824,Leadership Change,Benzinga,Positive,0.278,0.63,CNC;JBLU;SPYU;CDLX;SAIL
-2025-07-07,09:28:16,IQ,NYSE,Energy,H0825,Leadership Change,Benzinga,Neutral,0.122,0.64,GBTC;HR;IRT;SHAK;BIRK
-2025-07-07,15:00:25,VLTO,NYSE MKT,Industrial,H0826,Macroeconomic,CNBC,Negative,0.757,0.75,SAND;WBS;G;TEX;KMI
-2025-07-07,14:41:01,LYG,LSE,Consumer Discretionary,H0827,Earnings,Social Media,Neutral,0.929,0.89,FTNT
-2025-07-07,10:27:50,ROBN,NASDAQ,Consumer Discretionary,H0828,Rumor,Social Media,Positive,0.845,0.82,ARIS;CXW;PNC;DRIP;DIA
-2025-07-07,10:11:20,DHR,LSE,Energy,H0829,Rumor,Social Media,Negative,0.272,0.56,
-2025-07-07,15:21:40,CRNT,NYSE,Healthcare,H0830,Macroeconomic,WSJ,Neutral,0.522,0.67,EBR;MCK;LFST;TGNA
-2025-07-07,15:51:13,PII,NYSE MKT,Telecom,H0831,M&A,WSJ,Negative,0.748,0.91,JNJ
-2025-07-07,12:06:41,NXPI,BATS,Finance,H0832,M&A,Reuters,Negative,0.217,0.57,WYNN;SDGR;FBIN;LHX;MFG
-2025-07-07,09:28:55,UGI,BATS,Industrial,H0833,M&A,Social Media,Negative,0.237,0.69,
-2025-07-07,09:57:00,MDT,NASDAQ,Industrial,H0834,Leadership Change,CNBC,Positive,0.115,0.82,DFIC;MDU;WFRD
-2025-07-07,16:56:28,PK,BATS,Utilities,H0835,Leadership Change,WSJ,Positive,0.854,0.57,SCHH;TDUP;SLQT;MBC
-2025-07-07,11:32:29,TALO,NASDAQ,Real Estate,H0836,Product Launch,CNBC,Negative,0.26,0.68,CPRI;MUR;WEC
-2025-07-07,15:47:24,TWO,NYSE MKT,Technology,H0837,Macroeconomic,WSJ,Positive,0.657,0.75,
-2025-07-07,14:33:02,ETN,BATS,Industrial,H0838,Earnings,Reuters,Neutral,0.626,0.78,BLMN;CSGP;PSA
-2025-07-07,15:48:21,NMR,NYSE MKT,Technology,H0839,Regulation,Social Media,Positive,0.916,0.8,TEAM;RCL;TGNA
-2025-07-07,16:36:02,TEF,LSE,Real Estate,H0840,M&A,Benzinga,Negative,0.384,0.58,
-2025-07-07,10:15:51,LBRT,NYSE ARCA,Technology,H0841,Macroeconomic,CNBC,Negative,0.952,0.81,CB;J;POST;ILMN
-2025-07-07,15:14:48,LFST,BATS,Finance,H0842,Earnings,Bloomberg,Positive,0.741,0.98,DRS;CART
-2025-07-07,11:43:59,UA,NASDAQ,Energy,H0843,Rumor,CNBC,Negative,0.866,0.76,IRDM
-2025-07-07,14:21:59,MGA,NYSE ARCA,Finance,H0844,Macroeconomic,Social Media,Positive,0.277,0.99,CLM;SCHX;CATX;ARM
-2025-07-07,16:36:37,RTO,NYSE MKT,Finance,H0845,Product Launch,Benzinga,Positive,0.667,0.78,MUFG;ATOM
-2025-07-07,09:25:01,GSK,BATS,Technology,H0846,Macroeconomic,Social Media,Neutral,0.81,0.85,BB;CDRE;SHLS;JNK
-2025-07-07,16:55:01,PCVX,NYSE ARCA,Real Estate,H0847,Product Launch,Bloomberg,Positive,0.784,0.69,MASI;XLG;ARQT;WWW;KAR
-2025-07-07,13:41:25,LUMN,BATS,Finance,H0848,Product Launch,WSJ,Negative,0.201,0.98,
-2025-07-07,09:24:31,BF-B,NASDAQ,Energy,H0849,Product Launch,WSJ,Positive,0.173,0.92,
-2025-07-07,15:07:24,EWQ,NYSE MKT,Utilities,H0850,Macroeconomic,CNBC,Negative,0.103,0.59,SBS;CCL;FENY;BYD
-2025-07-07,12:26:36,VMBS,NYSE,Healthcare,H0851,Product Launch,Social Media,Positive,0.148,0.72,CMC;MFC;CLNE;MTH
-2025-07-07,15:46:06,BYD,LSE,Utilities,H0852,Regulation,Reuters,Neutral,0.746,0.92,PSNY;EWZ;FTAI;ZVSA
-2025-07-07,09:01:07,ULCC,NYSE,Energy,H0853,Product Launch,Reuters,Negative,0.696,0.79,PHIO
-2025-07-07,14:49:23,ETH,LSE,Technology,H0854,Leadership Change,WSJ,Negative,0.238,0.59,BIDU;PINS;VSTS;BORR;DDL
-2025-07-07,14:35:27,VXX,LSE,Finance,H0855,Product Launch,Social Media,Neutral,0.178,0.91,SPRY;ULCC
-2025-07-07,12:58:42,MASI,BATS,Technology,H0856,Leadership Change,Benzinga,Positive,0.923,0.84,VERV;HBI;COHR;UMAC;BFLY
-2025-07-07,12:49:37,PPG,NYSE,Technology,H0857,Regulation,Bloomberg,Positive,0.826,0.81,
-2025-07-07,12:14:19,VTIP,NYSE ARCA,Utilities,H0858,Product Launch,CNBC,Positive,0.793,0.83,REET
-2025-07-07,09:44:48,SRPT,NASDAQ,Industrial,H0859,Macroeconomic,Social Media,Neutral,0.603,0.78,CHDN;CGC;DRI;TSLT;TSLL
-2025-07-07,14:56:20,PGX,NYSE MKT,Energy,H0860,Macroeconomic,Benzinga,Positive,0.854,0.91,DUST;ARQT;MOAT;LABU
-2025-07-07,15:17:37,WRD,LSE,Utilities,H0861,Earnings,Bloomberg,Positive,0.672,0.89,
-2025-07-07,12:33:38,CMA,NYSE ARCA,Energy,H0862,Leadership Change,Social Media,Positive,0.367,0.56,LEGN;CURI
-2025-07-07,16:37:33,BLND,LSE,Technology,H0863,M&A,WSJ,Negative,0.943,0.58,
-2025-07-07,13:53:45,LINE,BATS,Technology,H0864,Rumor,CNBC,Neutral,0.797,0.85,
-2025-07-07,10:41:33,CAH,NASDAQ,Industrial,H0865,Regulation,Reuters,Positive,0.301,0.63,TOVX;BXMT
-2025-07-07,15:48:57,EMB,BATS,Real Estate,H0866,Earnings,Bloomberg,Positive,0.544,0.94,SIBN;WTRG;CDW;FIS;ECL
-2025-07-07,13:58:25,ATEC,BATS,Utilities,H0867,Earnings,Reuters,Negative,0.455,0.63,CCEP;SYM
-2025-07-07,12:15:16,RKLB,LSE,Real Estate,H0868,Rumor,WSJ,Positive,0.88,0.76,FTS;CE;CYCC;XPEV;SANA
-2025-07-07,14:15:39,CHD,NYSE MKT,Real Estate,H0869,Regulation,Social Media,Negative,0.222,0.51,NXE;CLM;SPLG;LYB;NYT
-2025-07-07,13:44:40,ZIM,NYSE,Healthcare,H0870,Product Launch,Reuters,Negative,0.628,0.73,EFX
-2025-07-07,13:26:01,CPRX,NASDAQ,Consumer Discretionary,H0871,M&A,WSJ,Positive,0.973,0.59,
-2025-07-07,16:59:01,NEE,LSE,Real Estate,H0872,Earnings,Reuters,Negative,0.689,0.95,
-2025-07-07,11:00:32,BRCC,BATS,Consumer Discretionary,H0873,Product Launch,Social Media,Positive,0.39,0.57,
-2025-07-07,11:00:32,KMB,BATS,Consumer Discretionary,H0873,Product Launch,Social Media,Positive,0.39,0.57,UHS;LC;UBER;PMT
-2025-07-07,11:00:32,SUPN,BATS,Consumer Discretionary,H0873,Product Launch,Social Media,Positive,0.39,0.57,SPYD;GRAB;KRG
-2025-07-07,13:22:48,OMCL,BATS,Telecom,H0874,M&A,Bloomberg,Negative,0.836,0.97,APA;GEHC;GFS;GOOGL
-2025-07-07,15:41:21,DBI,NYSE MKT,Real Estate,H0875,Leadership Change,CNBC,Positive,0.283,0.83,GOOG;XRX
-2025-07-07,09:19:50,LSPD,NASDAQ,Utilities,H0876,M&A,Social Media,Positive,0.925,0.51,CNQ;DAR;PHAT;UMC
-2025-07-07,11:25:37,VALE,NYSE ARCA,Healthcare,H0877,Product Launch,Bloomberg,Negative,0.66,0.58,IDYA
-2025-07-07,15:32:39,OXY,NYSE,Technology,H0878,Product Launch,Social Media,Negative,0.964,0.85,
-2025-07-07,16:35:02,FLNC,NYSE MKT,Finance,H0879,Regulation,Social Media,Positive,0.804,0.5,PHG;LTH;NOTE;YUMC
-2025-07-07,15:37:56,BLDP,NASDAQ,Finance,H0880,Rumor,Social Media,Neutral,0.864,0.97,UNIT;PTCT;BRCC;UCO
-2025-07-07,13:32:01,GOOS,LSE,Energy,H0881,Regulation,WSJ,Negative,0.249,0.68,MULN;CIBR;PAVE
-2025-07-07,12:06:41,URTY,NYSE ARCA,Energy,H0882,Macroeconomic,Benzinga,Neutral,0.382,0.88,AWK
-2025-07-07,14:19:03,HRMY,NYSE MKT,Real Estate,H0883,Regulation,Benzinga,Positive,0.496,0.97,
-2025-07-07,10:23:22,QGEN,LSE,Healthcare,H0884,Leadership Change,Bloomberg,Positive,0.955,0.63,
-2025-07-07,09:32:20,EXC,NASDAQ,Industrial,H0885,Product Launch,CNBC,Negative,0.461,0.58,
-2025-07-07,13:58:41,SNY,NYSE MKT,Technology,H0886,Earnings,Social Media,Negative,0.811,0.56,DOW
-2025-07-07,14:10:04,PSLV,NYSE MKT,Consumer Discretionary,H0887,Leadership Change,Benzinga,Positive,0.801,0.58,KMB;FL;RZLT;ATOM;PUK
-2025-07-07,10:43:55,BIDU,NYSE,Healthcare,H0888,M&A,WSJ,Negative,0.696,0.95,RLAY;MNST;HE;EWP;HIG
-2025-07-07,10:31:20,CSX,LSE,Energy,H0889,Macroeconomic,Reuters,Negative,0.858,0.7,ECX
-2025-07-07,14:00:56,EUFN,NASDAQ,Telecom,H0890,M&A,CNBC,Negative,0.709,0.8,LFST;QCOM;CZR;VICI;RTX
-2025-07-07,13:12:23,CMS,NYSE MKT,Consumer Discretionary,H0891,Rumor,Benzinga,Positive,0.676,0.72,ZG
-2025-07-07,15:31:00,CRMD,BATS,Healthcare,H0892,M&A,Bloomberg,Negative,0.813,0.51,CAT;NGD;TER;INTU
-2025-07-07,11:12:43,ATOM,NYSE,Industrial,H0893,Regulation,Bloomberg,Negative,0.304,0.91,CVE
-2025-07-07,15:57:20,QXO,BATS,Real Estate,H0894,M&A,Reuters,Negative,0.612,0.82,KIND;ICL;SLDB;PTPI;ASM
-2025-07-07,11:11:45,PONY,LSE,Telecom,H0895,M&A,WSJ,Negative,0.385,0.78,EC;SPEM
-2025-07-07,10:13:42,CDW,LSE,Healthcare,H0896,Earnings,WSJ,Positive,0.812,0.64,GFI
-2025-07-07,12:45:41,DRIP,NYSE,Healthcare,H0897,Leadership Change,Bloomberg,Positive,0.917,0.92,RBRK;JXN;PSNL
-2025-07-07,16:20:34,CME,NYSE,Healthcare,H0898,Earnings,Benzinga,Positive,0.91,0.71,BTI
+2025-07-07,12:36:12,PARA,NASDAQ,Industrial,H0241,Bankruptcy,Financial Times,Positive,0.106,0.61,LX;HRTX
+2025-07-07,12:37:55,ELS,BATS,Energy,H0408,M&A,WSJ,Positive,0.817,0.94,
+2025-07-07,12:37:58,GBTC,NYSE,Aerospace & Defense,H0454,Cybersecurity Incident,SEC Filings,Positive,0.552,0.98,CHGG;MBLY
+2025-07-07,12:38:19,ATUS,NYSE ARCA,Aerospace & Defense,H0404,Macroeconomic,Investor Relations,Neutral,0.506,0.79,HLF;LVS;DKNG
+2025-07-07,12:38:19,TER,NYSE ARCA,Aerospace & Defense,H0404,Macroeconomic,Investor Relations,Neutral,0.506,0.79,
+2025-07-07,12:38:19,XP,NYSE ARCA,Aerospace & Defense,H0404,Macroeconomic,Investor Relations,Neutral,0.506,0.79,HDB;SQQQ
+2025-07-07,12:38:19,SEZL,NYSE ARCA,Aerospace & Defense,H0404,Macroeconomic,Investor Relations,Neutral,0.506,0.79,CRSR;ARE;PTON;CPNG
+2025-07-07,12:38:43,IRBT,NYSE,Transportation,H0952,Earnings,CNBC,Negative,0.4,0.54,TRMB;SBH;BOIL;YUMC
+2025-07-07,12:39:54,CTVA,NYSE MKT,Media & Entertainment,H0620,Partnership,Seeking Alpha,Negative,0.123,0.83,NRG;HD
+2025-07-07,12:40:15,ZG,BATS,Transportation,H0287,Dividend Announcement,CNBC,Negative,0.872,0.71,TXG
+2025-07-07,12:40:16,UNP,BATS,Energy,H0345,Leadership Change,Reuters,Positive,0.52,0.73,CVI;MIR;LOW;BRCC;ZG
+2025-07-07,12:40:42,CISO,LSE,Utilities,H0136,Lawsuit,Yahoo Finance,Negative,0.171,0.81,
+2025-07-07,12:41:00,JHX,NASDAQ,Aerospace & Defense,H0442,Partnership,Yahoo Finance,Neutral,0.58,0.7,IEFA
+2025-07-07,12:41:34,GT,NYSE MKT,Utilities,H0917,Lawsuit,Yahoo Finance,Positive,0.877,0.89,VLY;KURA;CRNC;HAE;VIXY
+2025-07-07,12:43:23,GNRC,NYSE MKT,Real Estate,H0281,M&A,Twitter,Neutral,0.315,0.82,REGN;SLM;JPM;SCHO
+2025-07-07,12:43:34,SN,NYSE,Industrial,H0428,Bankruptcy,Twitter,Positive,0.793,0.74,KR;ATUS;RSI
+2025-07-07,12:43:44,SAN,NYSE,Utilities,H0446,Regulation,Yahoo Finance,Positive,0.501,0.68,
+2025-07-07,12:43:46,BF-B,NASDAQ,Real Estate,H0392,Lawsuit,CNBC,Positive,0.501,0.76,RCL;CHPT;MSTX;VYX;CSAN
+2025-07-07,12:43:52,SGHC,NYSE MKT,Telecom,H0405,Stock Buyback,Twitter,Positive,0.737,0.9,CCCS;EPAM;VLRS
+2025-07-07,12:45:02,IFF,LSE,Technology,H0019,Stock Buyback,Benzinga,Negative,0.7,0.68,FLG;PSQ
+2025-07-07,12:45:06,MCHP,NYSE ARCA,Cryptocurrency,H0393,Leadership Change,Financial Times,Negative,0.803,0.88,
+2025-07-07,12:45:36,ARKB,NYSE ARCA,Consumer Discretionary,H0020,Product Launch,WSJ,Negative,0.2,0.97,
+2025-07-07,12:45:36,RUM,NASDAQ,Cryptocurrency,H0582,Partnership,WSJ,Negative,0.492,0.9,META;NOV;DAL;CWK
+2025-07-07,12:47:06,PRTA,LSE,Technology,H0729,Earnings,Bloomberg,Positive,0.427,0.68,PCAR;GS;CHPT;U
+2025-07-07,12:47:32,INSM,NYSE MKT,Real Estate,H0847,Stock Buyback,WSJ,Positive,0.114,0.77,CIEN
+2025-07-07,12:47:56,YUMC,NASDAQ,Cryptocurrency,H0162,Partnership,CNBC,Negative,0.494,0.55,PEG;XLV;DUHP
+2025-07-07,12:47:56,CNH,NYSE ARCA,Technology,H0588,Rumor,Bloomberg,Neutral,0.53,0.78,TT;KR;CRS
+2025-07-07,12:49:21,IVW,NYSE,Technology,H0679,Regulation,Financial Times,Positive,0.724,0.84,CONL;F
+2025-07-07,12:49:36,VT,NYSE,Industrial,H0988,Earnings,Social Media,Negative,0.774,0.91,GBDC;BXP;MBB;PSO
+2025-07-07,12:49:40,PCAR,NYSE,Energy,H0119,Stock Buyback,Investor Relations,Positive,0.595,0.79,HASI;TSM;TLT;MUB
+2025-07-07,12:51:32,SCHX,BATS,Consumer Staples,H0399,Lawsuit,Reddit,Negative,0.568,0.8,CCCS;TNYA;TEX;FROG;DVAX
+2025-07-07,12:51:46,HRTG,NYSE MKT,Finance,H0479,Cybersecurity Incident,Investor Relations,Negative,0.805,0.77,WOLF
+2025-07-07,12:52:02,CNI,LSE,Utilities,H0215,Regulation,Bloomberg,Negative,0.398,0.88,JDST;VZLA
+2025-07-07,12:52:31,FOXA,BATS,Healthcare,H0827,Cybersecurity Incident,Reuters,Negative,0.34,0.8,EZU;CXM;MKSI;EA;QSR
+2025-07-07,12:53:17,RCAT,NASDAQ,Finance,H0272,Rumor,Bloomberg,Positive,0.918,0.72,EWQ;TBLA;WMG
+2025-07-07,12:53:20,BTOG,NASDAQ,Consumer Discretionary,H0487,Macroeconomic,Yahoo Finance,Neutral,0.742,0.87,
+2025-07-07,12:53:45,O,NASDAQ,Aerospace & Defense,H0879,Bankruptcy,WSJ,Positive,0.36,0.72,HE;VZLA;LFST;BTOG;WMB
+2025-07-07,12:53:59,MP,LSE,Cryptocurrency,H0309,Stock Buyback,Bloomberg,Positive,0.389,0.85,CAVA
+2025-07-07,12:54:52,COGT,NYSE ARCA,Materials,H0450,Cybersecurity Incident,Financial Times,Negative,0.252,0.55,FRSH;EDV;NU;FIGS;CHTR
+2025-07-07,12:55:59,DIS,LSE,Energy,H0098,M&A,WSJ,Negative,0.201,0.66,LLY
+2025-07-07,12:56:07,SCHO,NYSE MKT,Industrial,H0299,Lawsuit,Benzinga,Negative,0.495,0.96,RNA;ETNB;IBB;TPH;SRTY
+2025-07-07,12:56:08,EMN,NYSE MKT,Technology,H0426,Stock Buyback,SEC Filings,Negative,0.679,0.89,COLD
+2025-07-07,12:56:17,ELS,NYSE ARCA,Transportation,H0713,Product Launch,Reddit,Negative,0.469,0.87,BA;BIL;CI;IDYA
+2025-07-07,12:56:26,PAA,NYSE MKT,Energy,H0657,Stock Buyback,Yahoo Finance,Negative,0.201,0.7,EVER;IYE;BG;CAVA
+2025-07-07,12:56:30,SCHX,BATS,Industrial,H0554,Product Launch,Twitter,Positive,0.39,0.62,TXN;DUK;LOW
+2025-07-07,12:58:49,XIFR,NASDAQ,Industrial,H0609,Stock Buyback,WSJ,Negative,0.117,0.73,
+2025-07-07,12:59:32,PACB,NYSE MKT,Real Estate,H0791,M&A,Investor Relations,Neutral,0.167,0.67,
+2025-07-07,12:59:36,RYAAY,NYSE MKT,Consumer Staples,H0038,Partnership,Reddit,Neutral,0.242,0.9,SABR;GSK;SATS
+2025-07-07,12:59:53,REET,NASDAQ,Technology,H0443,Lawsuit,Bloomberg,Positive,0.529,0.89,SOXX;GLNG;IUSB;CHDN;NVO
+2025-07-07,12:59:59,PRMB,NYSE MKT,Real Estate,H0642,Macroeconomic,Benzinga,Neutral,0.208,0.81,CNH;RC;EOG;ESRT;LOAR
+2025-07-07,13:00:12,DGRW,BATS,Industrial,H0402,Earnings,WSJ,Positive,0.42,0.76,BK;EWG;CL;SAND
+2025-07-07,13:01:31,TUYA,NYSE ARCA,Aerospace & Defense,H0982,Partnership,Reuters,Positive,0.369,0.69,
+2025-07-07,13:01:34,IVR,LSE,Transportation,H0297,Regulation,Reddit,Negative,0.444,0.77,ENTG;LYFT;MT;QTWO;VTEX
+2025-07-07,13:01:52,CRGY,BATS,Media & Entertainment,H0379,Layoffs,Yahoo Finance,Positive,0.683,0.71,TSN
+2025-07-07,13:02:33,BWA,NYSE,Cryptocurrency,H0533,Earnings,SEC Filings,Negative,0.856,0.9,
+2025-07-07,13:03:13,MDB,NYSE ARCA,Healthcare,H0028,Partnership,CNBC,Negative,0.579,0.96,WRBY;IAG;BL;SCHE
+2025-07-07,13:04:50,RBA,NYSE MKT,Materials,H0835,Rumor,Reuters,Negative,0.39,0.64,VYM;OTEX
+2025-07-07,13:04:54,TEAM,NASDAQ,Media & Entertainment,H0800,Partnership,Yahoo Finance,Negative,0.446,0.98,COR
+2025-07-07,13:05:34,VCSH,NASDAQ,Cryptocurrency,H0534,Dividend Announcement,Reddit,Negative,0.845,0.8,ED
+2025-07-07,13:06:07,HRMY,NYSE ARCA,Cryptocurrency,H0607,Regulation,Twitter,Positive,0.254,0.79,HEPA;DGX;IBM
+2025-07-07,13:06:11,VIG,NASDAQ,Aerospace & Defense,H0418,Cybersecurity Incident,Financial Times,Neutral,0.18,0.86,CI;IYT;CAT;TWLO
+2025-07-07,13:06:13,METU,NYSE,Media & Entertainment,H1000,Layoffs,Bloomberg,Positive,0.365,0.65,CNEY;PBR;ROL
+2025-07-07,13:08:32,BIPC,NYSE,Materials,H0354,Layoffs,Twitter,Negative,0.557,0.96,ANET;NRDS
+2025-07-07,13:09:48,CGNX,NYSE MKT,Cryptocurrency,H0285,Macroeconomic,WSJ,Neutral,0.618,0.59,PPG;LFST;DAL;ORCL
+2025-07-07,13:10:25,DTM,BATS,Consumer Staples,H0769,Dividend Announcement,Twitter,Negative,0.688,0.91,MPLX
+2025-07-07,13:10:36,LBTYK,BATS,Utilities,H0755,Macroeconomic,Reddit,Negative,0.519,0.99,BCE;COLB;IVR;PTEN
+2025-07-07,13:10:38,EMB,BATS,Industrial,H0663,Rumor,Social Media,Neutral,0.946,0.91,DX;OMF;WTI;GOF;RCAT
+2025-07-07,13:11:03,SOXL,NYSE MKT,Real Estate,H0976,Stock Buyback,Benzinga,Positive,0.671,0.82,MODG;VRTX;GDXD;FOXA
+2025-07-07,13:11:12,NIO,NASDAQ,Media & Entertainment,H0254,Rumor,Benzinga,Positive,0.814,0.81,FTNT;UPS;TROW;DYNF;VNO
+2025-07-07,13:11:17,SAN,BATS,Media & Entertainment,H0714,Product Launch,Investor Relations,Neutral,0.4,0.9,BEAM;OPFI;NBIX;CWK
+2025-07-07,13:11:38,QSI,NASDAQ,Healthcare,H0122,Regulation,SEC Filings,Negative,0.662,0.8,QYLD
+2025-07-07,13:11:50,INCY,NYSE MKT,Real Estate,H0068,Regulation,Social Media,Positive,0.456,0.79,NOTE;BCE
+2025-07-07,13:12:04,BXSL,BATS,Industrial,H0467,Lawsuit,Reuters,Positive,0.565,0.7,
+2025-07-07,13:12:05,DNOW,NYSE,Telecom,H0873,Layoffs,Reddit,Negative,0.801,0.84,BCE
+2025-07-07,13:12:16,ULS,LSE,Telecom,H0984,Bankruptcy,Bloomberg,Neutral,0.587,0.85,ARDX
+2025-07-07,13:12:16,NRDS,LSE,Telecom,H0984,Bankruptcy,Bloomberg,Neutral,0.587,0.85,VXX;CEVA;PHYS;FWONK
+2025-07-07,13:12:16,EXEL,LSE,Telecom,H0984,Bankruptcy,Bloomberg,Neutral,0.587,0.85,
+2025-07-07,13:13:19,CHRD,BATS,Cryptocurrency,H0197,Partnership,Social Media,Negative,0.309,0.8,UL
+2025-07-07,13:13:56,DTE,BATS,Consumer Staples,H0406,Macroeconomic,Bloomberg,Negative,0.177,0.56,TER;DRI;SOUN;FLS;MCHI
+2025-07-07,13:14:15,KTOS,BATS,Industrial,H0221,Stock Buyback,SEC Filings,Negative,0.384,0.77,GXO;CVNA;SID;MLPA;LFMD
+2025-07-07,13:14:23,MSTY,LSE,Technology,H0422,Lawsuit,CNBC,Negative,0.947,0.55,FTV;UTZ
+2025-07-07,13:14:32,SMCX,NASDAQ,Transportation,H0284,Lawsuit,Yahoo Finance,Neutral,0.673,0.61,GBDC
+2025-07-07,13:14:32,RXRX,NASDAQ,Transportation,H0284,Lawsuit,Yahoo Finance,Neutral,0.673,0.61,CMS;FULC;GCI;UCO;TLRY
+2025-07-07,13:14:32,SHV,NASDAQ,Transportation,H0284,Lawsuit,Yahoo Finance,Neutral,0.673,0.61,RBA;ITOT;CRWD
+2025-07-07,13:14:32,HAYW,NASDAQ,Transportation,H0284,Lawsuit,Yahoo Finance,Neutral,0.673,0.61,NI;INTA
+2025-07-07,13:14:50,BNS,NYSE ARCA,Healthcare,H0448,Regulation,Yahoo Finance,Positive,0.287,0.99,
+2025-07-07,13:15:33,SAN,NYSE ARCA,Technology,H0282,Dividend Announcement,Seeking Alpha,Negative,0.683,0.96,CRWD;KRC;GNL
+2025-07-07,13:16:56,CNR,LSE,Industrial,H0123,Macroeconomic,Yahoo Finance,Positive,0.334,0.84,BAM;GGLL;CTRA;SSO;SPXU
+2025-07-07,13:17:12,RXST,NYSE,Materials,H0127,Macroeconomic,Twitter,Negative,0.316,0.67,IYE;SA
+2025-07-07,13:17:47,EW,BATS,Consumer Discretionary,H0621,Rumor,WSJ,Negative,0.722,0.58,DFIV;TKC;GOOS;CNK;UNP
+2025-07-07,13:18:32,SEM,NYSE ARCA,Transportation,H0337,Partnership,Reddit,Positive,0.468,0.73,EDU;FNB;BOX;IOT;H
+2025-07-07,13:19:33,RDDT,NYSE,Utilities,H0493,Rumor,WSJ,Positive,0.315,0.93,BHP;VRTX;COIN;PRAA;EAF
+2025-07-07,13:19:58,EJH,BATS,Cryptocurrency,H0722,M&A,SEC Filings,Neutral,0.577,0.65,CZR;SOXX
+2025-07-07,13:20:20,EWA,NYSE MKT,Consumer Staples,H0700,Product Launch,WSJ,Neutral,0.461,0.74,UBER
+2025-07-07,13:20:21,GENI,BATS,Consumer Staples,H0176,Bankruptcy,Benzinga,Neutral,0.791,0.96,CMS;IEFA;VYMI;LTH;OSCR
+2025-07-07,13:20:25,GSBD,NYSE MKT,Real Estate,H0634,Rumor,Reddit,Negative,0.414,0.95,CLSK;TROW
+2025-07-07,13:21:12,HEFA,BATS,Cryptocurrency,H0524,Macroeconomic,Social Media,Positive,0.224,0.94,ORI
+2025-07-07,13:21:22,CRC,NYSE MKT,Media & Entertainment,H0401,Rumor,SEC Filings,Positive,0.3,0.78,GRMN;SHAK;CRGY;GSM
+2025-07-07,13:21:29,UE,NYSE ARCA,Cryptocurrency,H0152,Leadership Change,WSJ,Negative,0.213,0.74,AZUL;NVAX;TXN;PTCT;SNAP
+2025-07-07,13:21:52,PCT,LSE,Real Estate,H0998,Layoffs,Social Media,Negative,0.68,0.72,WVE;GRRR;OKE;ITUB;EDU
+2025-07-07,13:22:45,EQT,NASDAQ,Telecom,H0808,Bankruptcy,Twitter,Negative,0.468,0.78,NYT
+2025-07-07,13:23:00,PERI,NYSE,Materials,H0126,Earnings,Social Media,Negative,0.76,0.71,SCHV
+2025-07-07,13:23:02,PD,NYSE MKT,Real Estate,H0273,Rumor,Yahoo Finance,Neutral,0.828,0.55,ELS;BEN;TLH;APPS;SPIB
+2025-07-07,13:26:11,SPR,NYSE ARCA,Aerospace & Defense,H0334,Regulation,Reddit,Positive,0.679,0.54,NVD;Z;BITX
+2025-07-07,13:26:17,WFC,NYSE MKT,Healthcare,H0124,Cybersecurity Incident,Investor Relations,Positive,0.8,0.71,KURA
+2025-07-07,13:26:38,DNUT,NYSE MKT,Consumer Staples,H0156,M&A,Twitter,Negative,0.152,0.85,SUPV;NI;IVV;AON
+2025-07-07,13:26:42,CLOV,NYSE MKT,Utilities,H0090,Dividend Announcement,Twitter,Negative,0.342,0.71,EXC;MFA;KOPN;VRRM;UMC
+2025-07-07,13:26:46,GLD,NYSE,Materials,H0130,Regulation,Yahoo Finance,Negative,0.939,0.7,LUMN;RES;DLTR;BVN
+2025-07-07,13:26:49,VEEV,NYSE MKT,Real Estate,H0323,Earnings,WSJ,Neutral,0.448,0.66,TSLS;ARKG;MFA;CYTK;UNM
+2025-07-07,13:26:50,SSNC,NYSE MKT,Consumer Staples,H0208,Dividend Announcement,Financial Times,Negative,0.288,0.63,SLVP;LNG;BILL
+2025-07-07,13:27:39,ASM,NYSE ARCA,Media & Entertainment,H0006,Stock Buyback,Seeking Alpha,Positive,0.589,0.56,MT;VERX
+2025-07-07,13:27:39,VSCO,NYSE MKT,Consumer Staples,H0749,M&A,SEC Filings,Neutral,0.668,0.85,ES;HOLX
+2025-07-07,13:27:52,RRC,NASDAQ,Cryptocurrency,H0202,Bankruptcy,CNBC,Positive,0.264,0.88,CAG
+2025-07-07,13:28:13,NN,NASDAQ,Aerospace & Defense,H0550,Leadership Change,Reuters,Positive,0.336,0.63,BA;CRMD;GSBD;ETHU
+2025-07-07,13:28:14,LHX,NYSE,Consumer Staples,H0845,Leadership Change,Reuters,Negative,0.295,0.88,DUST;QYLD;NAT
+2025-07-07,13:28:26,SPYV,NASDAQ,Consumer Staples,H0036,Regulation,Benzinga,Negative,0.364,0.92,ARDX
+2025-07-07,13:29:59,HOG,NASDAQ,Real Estate,H0899,Stock Buyback,Social Media,Neutral,0.729,0.78,CNP
+2025-07-07,13:30:21,NOK,NYSE,Telecom,H0292,Macroeconomic,CNBC,Negative,0.815,0.88,HUYA;MASI
+2025-07-07,13:33:54,PYLD,NASDAQ,Materials,H0738,Dividend Announcement,SEC Filings,Positive,0.617,0.82,CSGP;COR;SO;TTE;AVTR
+2025-07-07,13:34:19,HP,LSE,Aerospace & Defense,H0956,Rumor,Seeking Alpha,Neutral,0.787,0.81,ULTY;ROKU;PGY;BP;ATAT
+2025-07-07,13:34:36,BCS,NYSE ARCA,Technology,H0623,Lawsuit,Reuters,Neutral,0.202,0.8,CDRE;SIL;KULR;VCSH;UPWK
+2025-07-07,13:35:55,MC,NYSE ARCA,Transportation,H0803,Partnership,Financial Times,Positive,0.763,0.73,SGMO;IP;DUST;OTEX;TKO
+2025-07-07,13:36:09,QYLD,NYSE MKT,Healthcare,H0562,Bankruptcy,WSJ,Negative,0.791,0.82,CSCO;PRU;NOK;HPP;SDGR
+2025-07-07,13:36:27,ROIV,NYSE MKT,Industrial,H0412,Product Launch,CNBC,Negative,0.968,0.8,BND;BTI;TMO
+2025-07-07,13:36:43,VOD,LSE,Utilities,H0761,Layoffs,Reddit,Neutral,0.806,0.77,WDS;SNAP;AROC
+2025-07-07,13:36:47,ETR,BATS,Consumer Discretionary,H0757,Cybersecurity Incident,SEC Filings,Positive,0.595,0.91,
+2025-07-07,13:36:47,LU,LSE,Technology,H0915,Regulation,SEC Filings,Negative,0.394,0.7,FSS;KTOS;LIVN
+2025-07-07,13:36:47,PARA,LSE,Technology,H0915,Regulation,SEC Filings,Negative,0.394,0.7,CENX
+2025-07-07,13:37:29,COP,NYSE ARCA,Real Estate,H0025,Lawsuit,Bloomberg,Negative,0.102,0.89,CRK;HUYA;FNDX;WLK;WGS
+2025-07-07,13:37:52,VXX,BATS,Consumer Staples,H0887,Bankruptcy,Benzinga,Negative,0.237,0.91,ARKK;IWD
+2025-07-07,13:38:06,RIG,NASDAQ,Transportation,H0612,Macroeconomic,Twitter,Negative,0.185,0.74,TOVX;EAF;FWRG;CGDV
+2025-07-07,13:38:38,DHC,NYSE ARCA,Consumer Staples,H0326,Product Launch,Benzinga,Neutral,0.954,0.93,UVXY
+2025-07-07,13:39:35,CLS,NYSE MKT,Technology,H0880,Product Launch,Investor Relations,Positive,0.609,0.7,HAFN
+2025-07-07,13:39:43,ONB,NYSE MKT,Aerospace & Defense,H0356,Cybersecurity Incident,Bloomberg,Negative,0.748,0.6,RYN;SARO;SF;TS;RNA
+2025-07-07,13:39:53,USHY,NYSE MKT,Cryptocurrency,H0050,Product Launch,Financial Times,Negative,0.565,0.56,TRP;ASHR
+2025-07-07,13:39:53,OCUL,LSE,Cryptocurrency,H0949,Leadership Change,CNBC,Positive,0.245,0.76,CNR;BRO;CBOE;CLVT;DHI
+2025-07-07,13:40:12,INTU,LSE,Media & Entertainment,H0893,Stock Buyback,Bloomberg,Negative,0.304,0.98,CNDT;SOXL
+2025-07-07,13:42:58,VIAV,BATS,Cryptocurrency,H0163,Product Launch,WSJ,Negative,0.598,0.83,
+2025-07-07,13:42:59,APLS,NYSE,Industrial,H0435,Dividend Announcement,SEC Filings,Negative,0.142,0.59,IQLT
+2025-07-07,13:43:12,GBDC,LSE,Transportation,H0439,Product Launch,Financial Times,Positive,0.564,0.66,MRK;DKS
+2025-07-07,13:43:17,CNDT,NYSE MKT,Consumer Staples,H0237,Product Launch,Benzinga,Negative,0.227,0.71,EVH;TRP
+2025-07-07,13:43:39,RELX,NASDAQ,Real Estate,H0358,Layoffs,CNBC,Positive,0.935,0.82,BRFS;KTOS;ARKB;AWK;RDN
+2025-07-07,13:44:33,SNY,BATS,Industrial,H0293,Leadership Change,Bloomberg,Negative,0.967,0.69,RZLT;GCI;IQV;OLN
+2025-07-07,13:45:23,BYON,NYSE,Real Estate,H0471,Layoffs,Financial Times,Positive,0.386,0.53,BANC;OKTA
+2025-07-07,13:45:44,HLX,BATS,Healthcare,H0733,Regulation,Investor Relations,Positive,0.436,0.87,PCVX;CNEY;HON;KRC;WMT
+2025-07-07,13:46:11,EHTH,NASDAQ,Transportation,H0380,Earnings,Benzinga,Negative,0.664,1.0,URG;GKOS;CHX;VB;TOST
+2025-07-07,13:47:17,SLV,NYSE,Cryptocurrency,H0056,Layoffs,Yahoo Finance,Negative,0.303,0.88,BEAM;SKT;REZI;TDC;SPDW
+2025-07-07,13:48:04,PRCH,BATS,Finance,H0987,Product Launch,Reuters,Positive,0.373,0.58,AOS;JBLU;KBE;KKR
+2025-07-07,13:48:25,FTAI,NYSE ARCA,Transportation,H0883,Layoffs,Social Media,Negative,0.31,0.71,NXT;EXE;APPN;GSM;SCHE
+2025-07-07,13:48:48,MFA,LSE,Real Estate,H0280,M&A,CNBC,Negative,0.458,0.95,HST;BITU;EJH;LW
+2025-07-07,13:48:50,INFA,NYSE MKT,Utilities,H0506,Lawsuit,CNBC,Negative,0.396,0.71,MIR;CLX;RXRX
+2025-07-07,13:49:51,PRCH,NASDAQ,Aerospace & Defense,H0889,Product Launch,Reddit,Neutral,0.664,0.61,WDC;BITX
+2025-07-07,13:50:58,IYE,BATS,Transportation,H0532,Stock Buyback,Bloomberg,Negative,0.311,0.7,KKR;XOM
+2025-07-07,13:51:02,GL,NYSE MKT,Healthcare,H0860,Dividend Announcement,SEC Filings,Positive,0.506,0.77,FTV
+2025-07-07,13:51:34,MCD,NYSE,Consumer Discretionary,H0106,Regulation,Financial Times,Neutral,0.183,0.92,CIBR;ARKG;ASML;XLG
+2025-07-07,13:51:49,VIAV,BATS,Energy,H0171,Lawsuit,Benzinga,Neutral,0.982,0.99,
+2025-07-07,13:52:14,ESTC,BATS,Energy,H0094,Stock Buyback,Social Media,Negative,0.464,0.98,WULF;SIL;XLU;THS
+2025-07-07,13:52:31,VB,NYSE,Industrial,H0576,Partnership,SEC Filings,Neutral,0.95,0.51,ISRG;DBRG;NVTS;SRPT;XLF
+2025-07-07,13:53:03,AVDL,NYSE MKT,Media & Entertainment,H0191,Rumor,Benzinga,Positive,0.587,0.7,JAZZ;BKD;FIVN;SPYV
+2025-07-07,13:53:10,RPM,NASDAQ,Industrial,H0876,Earnings,Reuters,Positive,0.319,0.95,HPP
+2025-07-07,13:53:11,VCYT,BATS,Real Estate,H0519,Layoffs,Yahoo Finance,Neutral,0.811,0.89,HBAN;PAA;HYG;FDX;PNW
+2025-07-07,13:53:15,CNM,LSE,Technology,H0520,Cybersecurity Incident,Bloomberg,Positive,0.442,0.6,BP
+2025-07-07,13:54:10,PAGS,NYSE ARCA,Energy,H0381,M&A,SEC Filings,Positive,0.975,0.96,LMND;ARCC
+2025-07-07,13:54:29,NTR,NYSE ARCA,Energy,H0515,Lawsuit,Yahoo Finance,Positive,0.458,0.71,SNPS;GRRR;QTWO;NTES;CPNG
+2025-07-07,13:54:44,PRU,NYSE MKT,Consumer Discretionary,H0933,Leadership Change,Seeking Alpha,Positive,0.892,0.82,JBL;VKTX
+2025-07-07,13:54:54,SEZL,NASDAQ,Finance,H0853,Lawsuit,Bloomberg,Positive,0.102,0.83,INMD;REZI
+2025-07-07,13:55:51,EDU,NYSE ARCA,Consumer Staples,H0160,Stock Buyback,Yahoo Finance,Neutral,0.253,0.88,ZS;DBX
+2025-07-07,13:57:21,CHX,NYSE MKT,Technology,H0091,Regulation,CNBC,Positive,0.169,0.72,CVS;TSLZ
+2025-07-07,13:57:25,TOST,LSE,Finance,H0977,Macroeconomic,Yahoo Finance,Positive,0.83,0.82,
+2025-07-07,13:57:36,HP,NYSE MKT,Consumer Discretionary,H0699,Stock Buyback,Social Media,Positive,0.494,0.57,TAP;CFG;MBB;KBE;FSLR
+2025-07-07,13:57:38,BSM,LSE,Technology,H0205,Stock Buyback,WSJ,Negative,0.78,0.98,IART;SPHR;CRVS;APLS
+2025-07-07,13:57:52,RIG,NASDAQ,Technology,H0513,Macroeconomic,SEC Filings,Positive,0.209,0.62,TMO;UNP;C
+2025-07-07,13:58:29,RF,BATS,Cryptocurrency,H0501,M&A,Yahoo Finance,Negative,0.905,0.52,SPMO;FDVV;MA;TGT;KNX
+2025-07-07,13:58:56,PCVX,NYSE,Materials,H0060,Leadership Change,WSJ,Positive,0.374,0.7,OMI;SCHM;DBI;J;RSG
+2025-07-07,13:59:06,SPLV,LSE,Transportation,H0117,Dividend Announcement,Investor Relations,Neutral,0.726,0.75,
+2025-07-07,13:59:38,VLY,NASDAQ,Utilities,H0951,Stock Buyback,Reuters,Positive,0.385,0.61,
+2025-07-07,14:00:23,SHLD,BATS,Real Estate,H0212,Cybersecurity Incident,WSJ,Negative,0.424,0.76,HBI
+2025-07-07,14:02:18,MDU,BATS,Aerospace & Defense,H0666,Stock Buyback,Reuters,Positive,0.475,0.67,
+2025-07-07,14:02:20,VTEB,NYSE ARCA,Energy,H0715,Rumor,SEC Filings,Positive,0.607,0.74,IMUX
+2025-07-07,14:02:23,LNG,NYSE,Consumer Discretionary,H0444,Dividend Announcement,Bloomberg,Positive,0.374,0.57,BBIO
+2025-07-07,14:02:26,COOP,NYSE,Telecom,H0275,Lawsuit,CNBC,Neutral,0.577,0.53,VRN;BSBR;SNN;EVLV;MFG
+2025-07-07,14:03:16,RNA,NASDAQ,Utilities,H0697,Product Launch,Social Media,Positive,0.202,0.96,NVT;IWR;BCE;TSN
+2025-07-07,14:03:29,NVDQ,NYSE MKT,Cryptocurrency,H0865,Bankruptcy,Investor Relations,Negative,0.763,0.6,ETR
+2025-07-07,14:03:35,KC,NYSE MKT,Healthcare,H0765,Cybersecurity Incident,Financial Times,Negative,0.835,0.7,TTD;CGUS;RYAAY
+2025-07-07,14:04:06,GDHG,LSE,Media & Entertainment,H0201,Layoffs,Financial Times,Negative,0.525,0.5,PATH;VSAT;RCI;ETHT
+2025-07-07,14:04:30,DFIV,LSE,Materials,H0429,Cybersecurity Incident,SEC Filings,Neutral,0.598,0.64,TS;YINN;CRBG
+2025-07-07,14:05:15,EPD,NYSE ARCA,Energy,H0349,Leadership Change,Investor Relations,Positive,0.889,0.78,
+2025-07-07,14:06:35,IOT,BATS,Finance,H0100,Earnings,Twitter,Positive,0.878,0.6,NFE;LEU;CLF
+2025-07-07,14:06:35,BMBL,BATS,Finance,H0100,Earnings,Twitter,Positive,0.878,0.6,PSNL;BAM;FTAI;RR
+2025-07-07,14:06:35,MQ,BATS,Finance,H0100,Earnings,Twitter,Positive,0.878,0.6,ULCC
+2025-07-07,14:06:35,PTCT,BATS,Finance,H0100,Earnings,Twitter,Positive,0.878,0.6,IBRX;DG;SES
+2025-07-07,14:06:35,JPST,BATS,Finance,H0100,Earnings,Twitter,Positive,0.878,0.6,BITB;MTSR;COO
+2025-07-07,14:07:14,WDC,NYSE,Consumer Discretionary,H0137,Product Launch,WSJ,Negative,0.354,0.85,CCEP
+2025-07-07,14:07:14,IEFA,NYSE,Consumer Discretionary,H0137,Product Launch,WSJ,Negative,0.354,0.85,CDNS;AZTA;LAES;LMT
+2025-07-07,14:07:14,MCK,NYSE,Consumer Discretionary,H0137,Product Launch,WSJ,Negative,0.354,0.85,COGT;CGUS;BRFS;CNQ;SUPV
+2025-07-07,14:07:27,CCO,LSE,Cryptocurrency,H0897,Rumor,Benzinga,Positive,0.805,0.83,
+2025-07-07,14:07:53,LYRA,NYSE ARCA,Telecom,H0453,Layoffs,Social Media,Negative,0.282,0.83,WTI;SRPT;SPEM;ZS;MAS
+2025-07-07,14:08:00,OPEN,NYSE,Industrial,H0948,M&A,CNBC,Positive,0.975,0.95,WTI
+2025-07-07,14:08:26,VWO,NYSE,Finance,H0812,Lawsuit,CNBC,Positive,0.566,0.58,DOCU;RIVN;APLE
+2025-07-07,14:08:44,SWK,NYSE ARCA,Technology,H0725,Product Launch,Investor Relations,Neutral,0.29,0.73,NVTS;LOW;ENOV
+2025-07-07,14:08:47,PCG,NYSE,Media & Entertainment,H0044,Lawsuit,WSJ,Positive,0.126,0.59,URBN;METU;SPTL
+2025-07-07,14:09:05,NOG,NYSE ARCA,Finance,H0742,Earnings,Reddit,Positive,0.641,0.73,COP;VRT;NVD;BHC;TER
+2025-07-07,14:09:05,AVY,NYSE,Finance,H0810,Regulation,WSJ,Neutral,0.238,0.95,NOMD;UNH;GBTC;IAUM
+2025-07-07,14:09:41,FSS,LSE,Cryptocurrency,H0223,Cybersecurity Incident,Seeking Alpha,Neutral,0.443,0.98,
+2025-07-07,14:09:50,ASAN,NYSE MKT,Cryptocurrency,H0135,Macroeconomic,Reddit,Neutral,0.948,0.54,JD;AORT;LBTYK;ROIV
+2025-07-07,14:09:51,MKSI,BATS,Aerospace & Defense,H0518,Rumor,Benzinga,Positive,0.697,0.83,NVAX;FOXA;CGDV
+2025-07-07,14:10:22,GEHC,BATS,Transportation,H0099,Bankruptcy,WSJ,Positive,0.212,0.99,J;CMCSA;FRO;CDRE;GRPN
+2025-07-07,14:10:52,FSLR,NYSE,Telecom,H0198,Leadership Change,Seeking Alpha,Neutral,0.884,0.82,TSDD
+2025-07-07,14:11:32,NYMT,BATS,Finance,H0462,Regulation,Financial Times,Negative,0.454,0.75,PAVE;MLCO;DFIC
+2025-07-07,14:11:39,MAS,BATS,Cryptocurrency,H0904,Macroeconomic,Seeking Alpha,Neutral,0.315,0.87,FOUR;MMC;ITOT;QUBT;LLY
+2025-07-07,14:11:59,SKX,LSE,Consumer Discretionary,H0605,Regulation,Seeking Alpha,Positive,0.637,0.75,NTR;ST;NUVB
+2025-07-07,14:12:06,CARG,NYSE ARCA,Telecom,H0514,M&A,Social Media,Positive,0.219,0.8,
+2025-07-07,14:12:26,KEYS,NYSE,Materials,H0735,Stock Buyback,Reuters,Neutral,0.237,0.92,LUV;HTGC;RLJ
+2025-07-07,14:12:41,PANW,BATS,Industrial,H0758,Lawsuit,SEC Filings,Neutral,0.26,0.81,
+2025-07-07,14:12:48,RCUS,NYSE MKT,Consumer Discretionary,H0996,Dividend Announcement,Reddit,Positive,0.498,0.77,
+2025-07-07,14:13:02,UNP,NYSE,Consumer Discretionary,H0552,Dividend Announcement,Twitter,Positive,0.513,0.94,ETR;NVO;CSIQ;CMCSA
+2025-07-07,14:13:51,SUPV,NYSE MKT,Utilities,H0944,Product Launch,Investor Relations,Neutral,0.823,0.9,
+2025-07-07,14:14:12,GTX,NYSE MKT,Telecom,H0868,Product Launch,Reuters,Positive,0.611,0.6,MSOS;VNET
+2025-07-07,14:14:59,ELAN,NYSE ARCA,Energy,H0825,Partnership,Twitter,Negative,0.591,0.59,GNTX;MET;HBM
+2025-07-07,14:15:06,ETH,NYSE MKT,Energy,H0857,Rumor,Reddit,Positive,0.207,0.88,
+2025-07-07,14:15:38,WULF,NYSE MKT,Technology,H0597,Macroeconomic,CNBC,Neutral,0.345,0.72,
+2025-07-07,14:16:17,OC,NASDAQ,Consumer Discretionary,H0732,Rumor,Twitter,Negative,0.742,0.73,YALA
+2025-07-07,14:16:32,MXL,LSE,Real Estate,H0766,Stock Buyback,Benzinga,Negative,0.442,0.91,MRP;CNP;CROX
+2025-07-07,14:16:39,GBDC,BATS,Industrial,H0423,Layoffs,WSJ,Negative,0.104,0.88,
+2025-07-07,14:16:53,GIS,NYSE MKT,Cryptocurrency,H0603,Leadership Change,Benzinga,Positive,0.485,0.85,
+2025-07-07,14:17:23,XLF,BATS,Media & Entertainment,H0711,Dividend Announcement,Investor Relations,Positive,0.672,0.63,ULCC;ELS;MSTU;BCE
+2025-07-07,14:17:32,KNTK,NYSE,Cryptocurrency,H0473,Earnings,Reddit,Negative,0.797,0.54,
+2025-07-07,14:17:32,PSNY,NYSE,Cryptocurrency,H0473,Earnings,Reddit,Negative,0.797,0.54,HBI;CAKE
+2025-07-07,14:18:14,VSCO,NYSE,Media & Entertainment,H0302,Dividend Announcement,Social Media,Neutral,0.147,0.78,SOFI;DG;NVDA;STWD
+2025-07-07,14:19:12,ARES,LSE,Consumer Staples,H0599,Stock Buyback,SEC Filings,Negative,0.712,0.53,PSO
+2025-07-07,14:19:38,CUZ,NYSE,Finance,H0816,Macroeconomic,Benzinga,Neutral,0.138,0.7,APA;FTK;WFC;DFIV
+2025-07-07,14:19:40,GEHC,NYSE MKT,Finance,H0564,Leadership Change,Bloomberg,Negative,0.464,0.76,RCL
+2025-07-07,14:19:48,AUR,NYSE MKT,Aerospace & Defense,H0633,Rumor,Benzinga,Positive,0.115,0.71,HON;J
+2025-07-07,14:20:15,IDV,NYSE ARCA,Industrial,H0767,Layoffs,Reddit,Negative,0.534,0.6,
+2025-07-07,14:20:55,NOMD,NYSE ARCA,Healthcare,H0252,Lawsuit,Reuters,Neutral,0.488,0.85,JAMF;RELX;FOX
+2025-07-07,14:21:15,XIFR,NASDAQ,Cryptocurrency,H0093,Partnership,Twitter,Negative,0.21,0.96,
+2025-07-07,14:22:16,PRMB,NYSE ARCA,Industrial,H0307,Leadership Change,CNBC,Neutral,0.591,0.76,DIVO;QQQ;BTE
+2025-07-07,14:22:33,GOTU,NYSE ARCA,Healthcare,H0850,Cybersecurity Incident,Investor Relations,Negative,0.549,0.92,FERG;TEX
+2025-07-07,14:23:00,PWR,NYSE MKT,Materials,H0870,Rumor,Financial Times,Negative,0.622,0.53,JXN;GGB
+2025-07-07,14:23:00,SPLV,NYSE MKT,Materials,H0870,Rumor,Financial Times,Negative,0.622,0.53,COR;INOD
+2025-07-07,14:23:00,CALF,NYSE MKT,Materials,H0870,Rumor,Financial Times,Negative,0.622,0.53,BWIN;RY;SMG;CX;BMBL
+2025-07-07,14:24:09,EUFN,NYSE MKT,Industrial,H0509,Rumor,Reuters,Positive,0.289,0.76,BIRK;GLDM;NTNX;HBM
+2025-07-07,14:24:13,CHD,NYSE,Aerospace & Defense,H0970,Earnings,WSJ,Negative,0.421,0.98,IWD
+2025-07-07,14:24:40,FWONK,NYSE MKT,Aerospace & Defense,H0687,Partnership,Bloomberg,Positive,0.652,0.97,HASI;DRH
+2025-07-07,14:24:59,LYB,LSE,Technology,H0572,Product Launch,Reuters,Positive,0.51,0.97,UVIX
+2025-07-07,14:25:07,PRPL,NASDAQ,Telecom,H0066,Layoffs,Seeking Alpha,Neutral,0.873,0.97,
+2025-07-07,14:26:03,PRQR,NYSE,Transportation,H0352,Product Launch,Social Media,Negative,0.192,0.85,SCI;HRL;LYV
+2025-07-07,14:26:12,TRGP,LSE,Telecom,H0646,M&A,Twitter,Negative,0.265,0.76,CDRE
+2025-07-07,14:26:28,EQNR,NASDAQ,Cryptocurrency,H0557,Cybersecurity Incident,Bloomberg,Neutral,0.464,0.59,ATI;BA;SCHE
+2025-07-07,14:27:20,PGY,NYSE MKT,Real Estate,H0728,Macroeconomic,Social Media,Negative,0.329,0.54,OPFI;HG;PACB
+2025-07-07,14:27:40,GDS,NYSE,Real Estate,H0573,Rumor,Reuters,Negative,0.378,0.73,SM
+2025-07-07,14:27:40,QSI,NYSE,Real Estate,H0573,Rumor,Reuters,Negative,0.378,0.73,ITB;CRI;BUD;MRVL;COMP
+2025-07-07,14:27:40,BTSG,NYSE,Real Estate,H0573,Rumor,Reuters,Negative,0.378,0.73,UMAC;BIL;EWL
+2025-07-07,14:27:40,IQLT,NYSE,Real Estate,H0573,Rumor,Reuters,Negative,0.378,0.73,CEG;BSBR;ENR
+2025-07-07,14:27:40,MRK,NYSE,Real Estate,H0573,Rumor,Reuters,Negative,0.378,0.73,VZLA
+2025-07-07,14:28:18,CEVA,NASDAQ,Finance,H0705,M&A,Benzinga,Positive,0.4,0.9,IWF
+2025-07-07,14:28:20,VKTX,NYSE MKT,Materials,H0271,Product Launch,Reddit,Positive,0.642,0.87,LNTH
+2025-07-07,14:28:53,SPHD,BATS,Energy,H0698,Cybersecurity Incident,SEC Filings,Negative,0.724,0.68,VET;TSLY
+2025-07-07,14:31:22,EWH,NYSE MKT,Utilities,H0777,Lawsuit,CNBC,Positive,0.797,0.58,HEFA;INDA
+2025-07-07,14:31:33,PARA,NASDAQ,Finance,H0181,Product Launch,Reuters,Neutral,0.281,0.87,UCO;CMA;SPHQ;SYF
+2025-07-07,14:32:21,JEPI,NYSE,Consumer Discretionary,H0304,Cybersecurity Incident,Financial Times,Positive,0.329,0.64,ASGN;TXG;FNB
+2025-07-07,14:32:28,CRGY,NYSE ARCA,Transportation,H0763,Product Launch,Bloomberg,Positive,0.18,0.74,NFLX
+2025-07-07,14:32:54,FOXO,NYSE MKT,Industrial,H0312,Rumor,Bloomberg,Negative,0.331,0.75,BIL;BRKR;AVUV
+2025-07-07,14:33:00,LBRT,NYSE,Real Estate,H0040,M&A,Investor Relations,Positive,0.489,0.6,HUN;DYNF
+2025-07-07,14:33:39,VICI,BATS,Materials,H0298,Macroeconomic,WSJ,Negative,0.173,0.79,EPI
+2025-07-07,14:34:08,SPRY,LSE,Consumer Discretionary,H0529,Partnership,SEC Filings,Negative,0.362,0.57,HELE;GCI;BTBT;MYGN;MSFT
+2025-07-07,14:34:10,EHTH,LSE,Industrial,H0858,Partnership,Social Media,Positive,0.465,0.58,QUBT;SLM;STLD
+2025-07-07,14:34:11,SEZL,BATS,Real Estate,H0864,Macroeconomic,Seeking Alpha,Negative,0.714,0.67,CRNT;AU;NVAX;NKE;VXUS
+2025-07-07,14:34:23,MSFT,BATS,Technology,H0177,Rumor,Social Media,Neutral,0.17,0.72,HR;SILJ
+2025-07-07,14:34:32,FTK,NYSE,Technology,H0150,Partnership,Social Media,Negative,0.776,0.9,LYG
+2025-07-07,14:34:45,LABU,BATS,Technology,H0097,Earnings,Social Media,Positive,0.587,0.81,
+2025-07-07,14:34:54,ZS,NYSE MKT,Media & Entertainment,H0502,Product Launch,Financial Times,Positive,0.329,0.61,PSN;APLS;ICLR;SPIB
+2025-07-07,14:35:34,PSNY,NYSE,Technology,H0929,Layoffs,Reddit,Negative,0.795,0.77,MSTR
+2025-07-07,14:35:46,STLD,NYSE,Industrial,H0391,Stock Buyback,Yahoo Finance,Negative,0.62,0.67,BITO;CF;PGY;SPMD
+2025-07-07,14:35:47,BBWI,BATS,Consumer Discretionary,H0317,Earnings,CNBC,Positive,0.262,0.81,HSIC;PAYX;RELX;PHM;EXTR
+2025-07-07,14:35:50,LTH,NASDAQ,Media & Entertainment,H0906,Regulation,Reuters,Negative,0.826,0.7,EBR;PDM;SJNK
+2025-07-07,14:36:03,CNDT,LSE,Consumer Discretionary,H0047,Product Launch,Seeking Alpha,Positive,0.645,0.76,DHC
+2025-07-07,14:36:38,SSB,BATS,Technology,H0258,Bankruptcy,Bloomberg,Positive,0.246,0.7,SMFG;TSLS;IGV
+2025-07-07,14:36:42,KRG,LSE,Materials,H0538,Stock Buyback,Social Media,Positive,0.756,0.95,
+2025-07-07,14:37:02,BRKR,BATS,Materials,H0973,Rumor,Bloomberg,Negative,0.984,0.9,CRS;RPM;SEI;WTRG
+2025-07-07,14:37:50,SPIB,NASDAQ,Cryptocurrency,H0336,Layoffs,Seeking Alpha,Negative,0.636,0.59,VST;CMI;GRMN;VIPS
+2025-07-07,14:38:55,LMND,NYSE MKT,Energy,H0985,Layoffs,Financial Times,Negative,0.476,0.54,PRMB;TSLY;MOS;NVDD;BIV
+2025-07-07,14:42:29,TFC,NYSE,Healthcare,H0166,Leadership Change,CNBC,Negative,0.712,0.99,MA
+2025-07-07,14:42:41,IAUX,NASDAQ,Telecom,H0508,Bankruptcy,Social Media,Positive,0.485,0.87,PHG;CGGR;TS
+2025-07-07,14:42:53,LRCX,NASDAQ,Utilities,H0805,Layoffs,Financial Times,Neutral,0.457,0.55,
+2025-07-07,14:43:00,PRU,NYSE ARCA,Energy,H0546,Earnings,Reddit,Negative,0.841,0.95,HIO;CPS;EQX;VMEO;NYT
+2025-07-07,14:43:06,KMB,NYSE,Materials,H0497,Partnership,SEC Filings,Neutral,0.388,0.9,CGGO;BWXT;BCS;EEM;CTVA
+2025-07-07,14:43:31,IMAX,NYSE MKT,Transportation,H0794,Earnings,Seeking Alpha,Positive,0.454,0.52,
+2025-07-07,14:45:15,TNYA,BATS,Healthcare,H0980,Dividend Announcement,Financial Times,Negative,0.901,0.72,HAE;GLD;FNGB;SBUX
+2025-07-07,14:45:45,AON,NYSE MKT,Utilities,H0900,Earnings,Bloomberg,Negative,0.207,0.79,FENY;ASML
+2025-07-07,14:45:57,VTWO,NYSE ARCA,Industrial,H0999,Cybersecurity Incident,Reddit,Neutral,0.186,0.55,AXL
+2025-07-07,14:46:23,MTCH,NYSE,Healthcare,H0526,Cybersecurity Incident,CNBC,Negative,0.324,0.55,PNR;BXMT
+2025-07-07,14:46:27,MRUS,LSE,Cryptocurrency,H0229,M&A,Reuters,Neutral,0.706,0.5,CHX;COF;BRBR;TRV;VYX
+2025-07-07,14:48:18,BBNX,NYSE MKT,Media & Entertainment,H0452,Layoffs,SEC Filings,Positive,0.45,0.58,TU;GGAL
+2025-07-07,14:49:49,INCY,NYSE,Healthcare,H0289,Rumor,Financial Times,Negative,0.796,0.77,ARMK;MPLX;REZI;WFRD
+2025-07-07,14:49:49,NTAP,NYSE,Healthcare,H0289,Rumor,Financial Times,Negative,0.796,0.77,OPTT;OVV;ZK
+2025-07-07,14:49:49,ARQT,NYSE,Healthcare,H0289,Rumor,Financial Times,Negative,0.796,0.77,KLIC
+2025-07-07,14:50:03,FRSH,LSE,Healthcare,H0688,Cybersecurity Incident,Twitter,Negative,0.857,0.55,VIR;JAMF
+2025-07-07,14:50:39,SUI,NYSE MKT,Telecom,H0751,Partnership,Financial Times,Neutral,0.399,0.84,
+2025-07-07,14:51:11,BIL,NYSE,Real Estate,H0832,Lawsuit,WSJ,Negative,0.16,0.65,WSM;S
+2025-07-07,14:51:13,RERE,NASDAQ,Healthcare,H0631,Product Launch,Yahoo Finance,Positive,0.767,0.69,SGI;LAMR;ATAI
+2025-07-07,14:51:37,TMV,NYSE ARCA,Industrial,H0169,Partnership,Social Media,Negative,0.196,0.83,ETH;BZ;RVLV;SEM
+2025-07-07,14:51:47,ASPN,BATS,Energy,H0474,Stock Buyback,Reddit,Negative,0.933,0.98,INN
+2025-07-07,14:52:30,BBJP,NYSE,Aerospace & Defense,H0063,Partnership,Reuters,Negative,0.179,0.68,LABD
+2025-07-07,14:53:09,VLY,NYSE ARCA,Utilities,H0830,Regulation,Investor Relations,Neutral,0.218,0.81,QQQM;BCRX;PINS;DUHP;SMH
+2025-07-07,14:54:26,GLW,NYSE MKT,Finance,H0923,Regulation,Yahoo Finance,Negative,0.698,0.87,KBR;RXST
+2025-07-07,14:55:05,PUK,LSE,Consumer Staples,H0844,Dividend Announcement,Reuters,Positive,0.368,0.56,CHRW;HELE
+2025-07-07,14:55:32,USHY,NYSE ARCA,Transportation,H0246,Dividend Announcement,Bloomberg,Negative,0.33,0.73,DFAC;TSLS;MIR
+2025-07-07,14:56:26,ETNB,NASDAQ,Aerospace & Defense,H0370,Regulation,Benzinga,Positive,0.418,0.73,WTRG;COHR;HEFA
+2025-07-07,14:56:51,BE,NYSE,Consumer Staples,H0695,Earnings,Seeking Alpha,Positive,0.159,0.69,JANX;SYM;NOV;FTDR
+2025-07-07,14:57:51,CALF,NYSE MKT,Transportation,H0058,Dividend Announcement,Twitter,Negative,0.503,0.83,RCI;RTO
+2025-07-07,14:58:21,RSP,LSE,Finance,H0012,Cybersecurity Incident,SEC Filings,Positive,0.982,0.57,CAH;AUR
+2025-07-07,14:58:25,RL,NYSE MKT,Telecom,H0295,Leadership Change,Social Media,Positive,0.558,0.58,MEGL;EEM;NVDQ;VTLE
+2025-07-07,14:58:41,VET,NYSE MKT,Transportation,H0645,Cybersecurity Incident,SEC Filings,Negative,0.888,0.88,HCC;CIFR;CARS;IBTA
+2025-07-07,14:59:01,NVST,NYSE ARCA,Technology,H0731,Earnings,CNBC,Negative,0.877,0.53,GDXD;FNGB;SID;ARKK
+2025-07-07,14:59:02,ROOT,BATS,Telecom,H0159,Earnings,Yahoo Finance,Positive,0.187,0.94,ULCC
+2025-07-07,14:59:12,SEZL,NYSE MKT,Aerospace & Defense,H0190,Cybersecurity Incident,WSJ,Positive,0.472,1.0,CMA;RDDT
+2025-07-07,14:59:41,MCHI,NYSE MKT,Real Estate,H0007,Partnership,Yahoo Finance,Positive,0.855,0.65,CNP
+2025-07-07,15:00:39,SG,NYSE ARCA,Healthcare,H0255,Bankruptcy,Financial Times,Neutral,0.431,0.86,
+2025-07-07,15:00:47,WBD,BATS,Healthcare,H0852,Bankruptcy,Yahoo Finance,Neutral,0.319,0.67,MAT;SJM;AREB;RITM
+2025-07-07,15:00:54,SRE,NYSE MKT,Transportation,H0394,Product Launch,SEC Filings,Negative,0.686,0.64,
+2025-07-07,15:01:09,MRP,NASDAQ,Real Estate,H0235,Rumor,Benzinga,Positive,0.273,0.78,TTMI;MUB;STZ;DENN;XOM
+2025-07-07,15:01:16,MYGN,LSE,Media & Entertainment,H0882,Macroeconomic,Twitter,Negative,0.518,0.79,GOGL;DOCS;NWSA;TDOC;SHOO
+2025-07-07,15:03:39,VOYA,NYSE ARCA,Consumer Discretionary,H0968,Layoffs,Social Media,Neutral,0.44,0.53,
+2025-07-07,15:03:51,WGS,NYSE MKT,Utilities,H0736,Rumor,Benzinga,Negative,0.529,0.94,USHY
+2025-07-07,15:04:05,BWXT,NASDAQ,Utilities,H0338,Earnings,Investor Relations,Neutral,0.644,0.8,STZ;IR;SJNK;TTMI
+2025-07-07,15:04:37,IWN,LSE,Materials,H0635,Cybersecurity Incident,Financial Times,Positive,0.189,0.51,ROL;PL;HRL
+2025-07-07,15:04:58,TQQQ,NASDAQ,Energy,H0188,Cybersecurity Incident,Benzinga,Positive,0.454,0.93,UAMY;SQM
+2025-07-07,15:04:58,XLP,NASDAQ,Energy,H0188,Cybersecurity Incident,Benzinga,Positive,0.454,0.93,OUNZ;TTE;LITE;RELX
+2025-07-07,15:04:58,EXK,NASDAQ,Energy,H0188,Cybersecurity Incident,Benzinga,Positive,0.454,0.93,ECL;BIDU
+2025-07-07,15:04:58,VTIP,NASDAQ,Energy,H0188,Cybersecurity Incident,Benzinga,Positive,0.454,0.93,TTMI;SPOT
+2025-07-07,15:04:58,DRI,NASDAQ,Energy,H0188,Cybersecurity Incident,Benzinga,Positive,0.454,0.93,MCW;VZLA;RGTI
+2025-07-07,15:05:48,HBAN,LSE,Finance,H0175,Regulation,Twitter,Negative,0.282,0.56,EWTX
+2025-07-07,15:06:59,GDXU,NASDAQ,Industrial,H0543,Earnings,Social Media,Positive,0.175,0.75,GEHC;ROIV
+2025-07-07,15:07:00,ROOT,NYSE,Materials,H0233,Layoffs,Twitter,Negative,0.355,0.72,RRC
+2025-07-07,15:07:25,CX,LSE,Industrial,H0101,Product Launch,CNBC,Negative,0.287,0.74,VRRM;KURA;CHGG
+2025-07-07,15:07:43,INZY,NYSE ARCA,Consumer Staples,H0249,Cybersecurity Incident,Yahoo Finance,Neutral,0.546,0.6,SERV;DFS;HI
+2025-07-07,15:07:45,NCEW,NYSE ARCA,Consumer Discretionary,H0935,Earnings,Twitter,Positive,0.762,0.72,CE;BABA;WSC
+2025-07-07,15:07:45,IYR,NYSE ARCA,Consumer Discretionary,H0935,Earnings,Twitter,Positive,0.762,0.72,VWO;RLJ;WTRG;SEM;CELH
+2025-07-07,15:07:45,GXO,NYSE ARCA,Consumer Discretionary,H0935,Earnings,Twitter,Positive,0.762,0.72,
+2025-07-07,15:07:45,OWL,NYSE ARCA,Consumer Discretionary,H0935,Earnings,Twitter,Positive,0.762,0.72,MCW
+2025-07-07,15:07:54,PVH,LSE,Finance,H0035,Stock Buyback,Reuters,Positive,0.782,0.6,TEM;LYB;SLVP;BOX
+2025-07-07,15:08:40,CCO,BATS,Finance,H0818,Product Launch,WSJ,Positive,0.828,0.72,RHI;WOOF;VSCO;VOD;CGGR
+2025-07-07,15:08:56,TDUP,NASDAQ,Cryptocurrency,H0464,Leadership Change,SEC Filings,Positive,0.495,0.62,CHRD;CRNT
+2025-07-07,15:09:11,FBL,NYSE ARCA,Transportation,H0990,Lawsuit,Bloomberg,Negative,0.556,0.94,KIM;SCHM
+2025-07-07,15:09:25,PRGO,BATS,Technology,H0347,Macroeconomic,Bloomberg,Negative,0.713,0.57,BFLY;DEVS;SMFG;FHN
+2025-07-07,15:09:56,CYH,NYSE MKT,Finance,H0822,Regulation,CNBC,Positive,0.995,0.68,CPRT
+2025-07-07,15:10:12,SMG,LSE,Telecom,H0325,Stock Buyback,Investor Relations,Positive,0.562,0.59,BNL;SOLV
+2025-07-07,15:10:27,XRX,NYSE,Real Estate,H0107,Earnings,Reddit,Positive,0.405,0.75,YANG;SARO
+2025-07-07,15:10:28,UNM,LSE,Industrial,H0256,Lawsuit,Bloomberg,Negative,0.273,0.67,HIMX;ECC;VTLE;SIRI;ESPR
+2025-07-07,15:11:51,SRLN,NYSE ARCA,Cryptocurrency,H0824,Dividend Announcement,Social Media,Neutral,0.892,0.79,NOC;TMDX;APP;BLDP
+2025-07-07,15:11:53,LBRDK,LSE,Finance,H0630,Dividend Announcement,Investor Relations,Negative,0.757,0.78,CWEN;DBRG
+2025-07-07,15:11:56,TSLZ,NASDAQ,Consumer Discretionary,H0463,Lawsuit,Investor Relations,Positive,0.368,0.74,FSM;BXP;IREN;DJT
+2025-07-07,15:12:13,TGTX,NYSE,Real Estate,H0303,Regulation,SEC Filings,Neutral,0.652,0.74,FR;IMUX;LGMK;HTHT
+2025-07-07,15:12:20,UNH,NYSE MKT,Consumer Discretionary,H0559,Leadership Change,Bloomberg,Negative,0.453,1.0,
+2025-07-07,15:12:53,PAAS,BATS,Technology,H0527,Leadership Change,Twitter,Positive,0.871,0.98,AON;SNAP;YUMC;GNL
+2025-07-07,15:12:53,NVDQ,BATS,Technology,H0527,Leadership Change,Twitter,Positive,0.871,0.98,EYE;DFIC;DYN;TSDD;CRM
+2025-07-07,15:12:53,PFGC,BATS,Technology,H0527,Leadership Change,Twitter,Positive,0.871,0.98,PCOR
+2025-07-07,15:12:53,MRX,BATS,Technology,H0527,Leadership Change,Twitter,Positive,0.871,0.98,PSA;YUMC
+2025-07-07,15:12:53,ZI,BATS,Technology,H0527,Leadership Change,Twitter,Positive,0.871,0.98,PLTD;ORN;SMCI;CYCC
+2025-07-07,15:13:30,GLW,NYSE ARCA,Utilities,H0613,Cybersecurity Incident,SEC Filings,Positive,0.279,0.56,BMBL;CRSR
+2025-07-07,15:13:55,VNT,NASDAQ,Transportation,H0618,M&A,Benzinga,Positive,0.683,0.58,
+2025-07-07,15:14:41,EXK,NASDAQ,Energy,H0017,Earnings,Social Media,Positive,0.321,0.57,
+2025-07-07,15:15:08,CAL,LSE,Consumer Staples,H0308,Bankruptcy,Benzinga,Negative,0.287,0.72,BCE;SNV
+2025-07-07,15:15:33,DFAI,NYSE,Finance,H0983,Leadership Change,Reddit,Neutral,0.159,0.77,NUGT;ES
+2025-07-07,15:15:59,MRUS,NASDAQ,Consumer Staples,H0318,Bankruptcy,Benzinga,Negative,0.512,0.56,SSO
+2025-07-07,15:16:08,EPP,LSE,Energy,H0918,Product Launch,Financial Times,Positive,0.371,0.75,VB;WDC
+2025-07-07,15:16:37,ROKU,NASDAQ,Healthcare,H0082,Product Launch,Investor Relations,Neutral,0.638,0.56,VPL;HLMN;EPAM;NIO;BBNX
+2025-07-07,15:17:00,RIOT,NYSE MKT,Utilities,H0490,Macroeconomic,Social Media,Positive,0.78,0.73,GSBD;OTIS
+2025-07-07,15:17:10,LNG,NYSE MKT,Aerospace & Defense,H0619,Rumor,SEC Filings,Neutral,0.242,0.52,CRC;NTNX;VRN;HUMA;RGTI
+2025-07-07,15:17:48,WVE,NASDAQ,Telecom,H0914,Rumor,WSJ,Positive,0.533,0.76,MTSR;FLYW
+2025-07-07,15:19:13,LAES,LSE,Aerospace & Defense,H0512,Macroeconomic,Benzinga,Negative,0.307,0.76,CAPR;RGTI;PAYC;SMCY
+2025-07-07,15:20:42,XLI,NYSE MKT,Healthcare,H0083,Layoffs,Investor Relations,Neutral,0.128,0.59,CBOE;SPY
+2025-07-07,15:20:42,JEPI,NYSE MKT,Energy,H0793,Bankruptcy,CNBC,Negative,0.238,0.83,IXUS;PRPL;LBTYA;NWL
+2025-07-07,15:21:02,TER,BATS,Media & Entertainment,H0993,Dividend Announcement,Reuters,Neutral,0.115,0.65,APLD;TJX;LEVI;NE
+2025-07-07,15:22:17,VTR,NYSE MKT,Energy,H0689,Layoffs,Reddit,Negative,0.841,0.69,TU
+2025-07-07,15:22:24,QQQM,NYSE,Telecom,H0389,Layoffs,Bloomberg,Negative,0.478,0.52,CAH;FTK;REAX;APG;CZR
+2025-07-07,15:23:18,CHRW,BATS,Transportation,H0227,Partnership,Bloomberg,Negative,0.745,0.57,IAU;SLB;RIO;VTV
+2025-07-07,15:23:54,PLTR,NYSE ARCA,Industrial,H0189,Stock Buyback,Investor Relations,Negative,0.936,0.92,VZLA;CLS
+2025-07-07,15:24:51,MRCY,NYSE ARCA,Materials,H0511,Rumor,Reuters,Positive,0.462,0.73,
+2025-07-07,15:25:12,TTI,BATS,Aerospace & Defense,H0086,M&A,Reuters,Neutral,0.458,0.84,FOLD;NXPI;JAZZ;HR;JELD
+2025-07-07,15:25:36,H,LSE,Transportation,H0472,Partnership,Bloomberg,Negative,0.958,1.0,HPP;WEC;RLAY;APA;FTDR
+2025-07-07,15:26:11,UGI,NYSE,Media & Entertainment,H0375,Lawsuit,Financial Times,Positive,0.883,0.91,TCAF;EFA;CRS
+2025-07-07,15:27:23,VKTX,NYSE MKT,Industrial,H0641,Leadership Change,Investor Relations,Positive,0.751,0.56,PTC;WDS;SPNT
+2025-07-07,15:27:27,VLRS,NASDAQ,Energy,H0581,Regulation,Benzinga,Positive,0.476,0.71,TGTX;SNOW;PTPI
+2025-07-07,15:27:42,HBAN,LSE,Consumer Staples,H0483,Macroeconomic,SEC Filings,Negative,0.816,0.61,PCG
+2025-07-07,15:28:03,DRN,NYSE MKT,Materials,H0266,Regulation,Reddit,Neutral,0.204,0.8,
+2025-07-07,15:28:31,WRD,LSE,Real Estate,H0971,Layoffs,Reuters,Positive,0.264,0.74,TSLS
+2025-07-07,15:28:48,RY,NYSE ARCA,Transportation,H0027,Bankruptcy,WSJ,Positive,0.707,0.97,
+2025-07-07,15:28:57,EVLV,NASDAQ,Aerospace & Defense,H0018,Partnership,Yahoo Finance,Negative,0.351,0.66,LQD
+2025-07-07,15:30:54,BBVA,NYSE ARCA,Energy,H0129,Cybersecurity Incident,Benzinga,Negative,0.384,0.92,IAC;MTB
+2025-07-07,15:30:56,OMI,BATS,Finance,H0070,Earnings,Social Media,Positive,0.712,0.87,GMAB;AVY;ARHS;QFIN;RGEN
+2025-07-07,15:32:09,APH,NYSE MKT,Utilities,H0411,Rumor,Reuters,Positive,0.644,0.96,PRVA
+2025-07-07,15:32:29,NVDX,NASDAQ,Cryptocurrency,H0649,Leadership Change,Seeking Alpha,Positive,0.929,0.91,HLMN;SUPN;GSM;CLDX
+2025-07-07,15:32:45,CBRE,BATS,Utilities,H0770,Leadership Change,Financial Times,Negative,0.648,0.86,
+2025-07-07,15:33:00,JEF,LSE,Aerospace & Defense,H0790,Stock Buyback,Reuters,Negative,0.197,0.75,BTU;LOW;SPHD;TGT;TSLA
+2025-07-07,15:33:00,DFAE,LSE,Aerospace & Defense,H0790,Stock Buyback,Reuters,Negative,0.197,0.75,WU;LOAR;HPE
+2025-07-07,15:33:00,NOMD,LSE,Aerospace & Defense,H0790,Stock Buyback,Reuters,Negative,0.197,0.75,
+2025-07-07,15:33:00,OGN,LSE,Aerospace & Defense,H0790,Stock Buyback,Reuters,Negative,0.197,0.75,WMT;SYK;YPF;AVB
+2025-07-07,15:33:00,JHX,LSE,Aerospace & Defense,H0790,Stock Buyback,Reuters,Negative,0.197,0.75,ERJ
+2025-07-07,15:33:11,JKHY,LSE,Materials,H0834,Partnership,WSJ,Positive,0.33,0.91,COR;NPKI;CYTK
+2025-07-07,15:33:19,DFAC,BATS,Industrial,H0398,Leadership Change,Social Media,Negative,0.493,0.99,HLN;HP;HESM
+2025-07-07,15:33:47,USFD,BATS,Finance,H0074,Cybersecurity Incident,Seeking Alpha,Neutral,0.796,0.83,BVN;BSX;LAC;BLMN;OXLC
+2025-07-07,15:34:33,MTCH,NYSE ARCA,Cryptocurrency,H0545,Earnings,Reuters,Positive,0.947,0.95,JPST;SHEL;HUN;COLD;JKHY
+2025-07-07,15:35:17,BF-B,NASDAQ,Technology,H0029,Regulation,Financial Times,Positive,0.426,0.67,SRLN;TXT
+2025-07-07,15:35:25,TAK,NASDAQ,Finance,H0200,Bankruptcy,Yahoo Finance,Negative,0.132,0.65,YPF
+2025-07-07,15:35:49,TQQQ,LSE,Materials,H0555,Lawsuit,Reuters,Negative,0.828,0.85,COLM;OMCL;CGNX;HIMS
+2025-07-07,15:36:23,DIVO,NYSE MKT,Industrial,H0236,Lawsuit,Investor Relations,Positive,0.666,0.99,HWM;APP;BANC;XERS;NBIS
+2025-07-07,15:37:43,ANET,BATS,Real Estate,H0320,Rumor,Investor Relations,Negative,0.613,0.58,
+2025-07-07,15:37:55,ARHS,NASDAQ,Energy,H0924,Dividend Announcement,Investor Relations,Positive,0.432,1.0,TRMB
+2025-07-07,15:38:25,SPDW,BATS,Materials,H0113,Earnings,Yahoo Finance,Negative,0.961,0.83,OMC
+2025-07-07,15:38:50,CWH,NYSE MKT,Materials,H0207,Earnings,Seeking Alpha,Neutral,0.419,0.81,MSOS
+2025-07-07,15:40:39,YALA,NYSE MKT,Transportation,H0848,Leadership Change,Investor Relations,Negative,0.819,1.0,CCJ
+2025-07-07,15:40:39,EFA,NYSE MKT,Transportation,H0848,Leadership Change,Investor Relations,Negative,0.819,1.0,AS;DIS;ECC
+2025-07-07,15:40:39,GRAB,NYSE MKT,Transportation,H0848,Leadership Change,Investor Relations,Negative,0.819,1.0,VTIP
+2025-07-07,15:41:33,X,BATS,Cryptocurrency,H0049,Bankruptcy,Investor Relations,Negative,0.871,0.59,ARRY;UTZ;MCD
+2025-07-07,15:41:46,DBX,LSE,Materials,H0468,Macroeconomic,Reddit,Positive,0.797,0.74,NPKI;SE;HMY
+2025-07-07,15:42:16,ETD,NYSE,Industrial,H0322,Partnership,Financial Times,Positive,0.475,0.65,VFLO
+2025-07-07,15:42:20,CFG,NYSE ARCA,Finance,H0283,Earnings,WSJ,Positive,0.943,0.86,IVV;SILJ;QUAL
+2025-07-07,15:42:29,TMF,NYSE MKT,Transportation,H0015,Leadership Change,Yahoo Finance,Negative,0.866,0.55,SCHM;HHH;PBI
+2025-07-07,15:42:29,CGDV,NYSE MKT,Transportation,H0015,Leadership Change,Yahoo Finance,Negative,0.866,0.55,FTI;PHG;CADE;CPRI
+2025-07-07,15:42:29,ORC,NYSE MKT,Transportation,H0015,Leadership Change,Yahoo Finance,Negative,0.866,0.55,OC;TOVX;ORI;MBB
+2025-07-07,15:42:57,FN,BATS,Cryptocurrency,H0507,Lawsuit,Twitter,Neutral,0.179,0.75,CRL;APG;TEF
+2025-07-07,15:43:02,MCW,NYSE MKT,Media & Entertainment,H0327,Product Launch,Financial Times,Negative,0.963,0.79,
+2025-07-07,15:43:08,TWST,BATS,Utilities,H0088,Stock Buyback,Seeking Alpha,Negative,0.59,0.72,ARVN;PSN
+2025-07-07,15:43:10,FSLR,BATS,Technology,H0997,Earnings,Yahoo Finance,Positive,0.593,0.67,
+2025-07-07,15:43:15,SAND,NASDAQ,Media & Entertainment,H0153,Dividend Announcement,Social Media,Positive,0.521,0.85,HI
+2025-07-07,15:43:56,SYM,NYSE MKT,Energy,H0966,Lawsuit,CNBC,Neutral,0.802,0.85,BEKE;FTV;NU;GPRO
+2025-07-07,15:44:02,IRDM,NYSE ARCA,Transportation,H0789,Earnings,Seeking Alpha,Negative,0.544,0.52,VET;CUBE;SGOL
+2025-07-07,15:45:30,OCGN,NYSE MKT,Consumer Discretionary,H0396,Product Launch,Benzinga,Positive,0.887,0.74,
+2025-07-07,15:46:07,SPNT,BATS,Utilities,H0701,Leadership Change,Reuters,Positive,0.784,0.74,AUR;LDOS;SF;AORT;ENB
+2025-07-07,15:46:15,NABL,NYSE MKT,Industrial,H0650,Leadership Change,CNBC,Neutral,0.588,0.85,LZ;DVAX;CNH;TTD
+2025-07-07,15:46:22,CNM,NYSE ARCA,Consumer Staples,H0105,Partnership,Investor Relations,Negative,0.41,0.85,EWG;VTI;EC
+2025-07-07,15:47:47,ARI,NYSE MKT,Real Estate,H0938,Earnings,Financial Times,Positive,0.191,0.52,COR;BEPC;SPNT;MUR;BBVA
+2025-07-07,15:47:49,EW,NASDAQ,Telecom,H0016,Partnership,Twitter,Positive,0.333,0.95,
+2025-07-07,15:48:13,XOM,NASDAQ,Consumer Discretionary,H0048,Cybersecurity Incident,Reuters,Positive,0.721,0.52,BGC;VRN
+2025-07-07,15:48:13,IMAX,NASDAQ,Consumer Discretionary,H0048,Cybersecurity Incident,Reuters,Positive,0.721,0.52,FTRE;GS;IVW;UUUU
+2025-07-07,15:48:36,ASTS,BATS,Materials,H0523,Earnings,Bloomberg,Positive,0.925,0.8,DFLV
+2025-07-07,15:49:06,RNG,NYSE MKT,Industrial,H0611,Lawsuit,Twitter,Positive,0.211,0.68,CFG;TNYA;RDFN;MSTU
+2025-07-07,15:49:24,EWZ,NYSE,Aerospace & Defense,H0313,Layoffs,Bloomberg,Neutral,0.648,0.55,BTBT;STNG
+2025-07-07,15:49:33,NCLH,NYSE MKT,Energy,H0377,Partnership,Seeking Alpha,Neutral,0.345,0.67,MRCY;CRC;CRSR
+2025-07-07,15:49:38,IAG,NYSE ARCA,Aerospace & Defense,H0773,Macroeconomic,Reddit,Neutral,0.659,0.53,
+2025-07-07,15:50:27,SAND,NYSE,Energy,H0643,Product Launch,Bloomberg,Negative,0.103,1.0,IVW
+2025-07-07,15:51:09,NOV,BATS,Industrial,H0909,Partnership,Benzinga,Positive,0.919,0.82,MGY;FOX;OPCH;XHB
+2025-07-07,15:51:28,HBI,BATS,Utilities,H0672,Regulation,SEC Filings,Positive,0.941,0.98,C;EOG;IONS;UDR;MET
+2025-07-07,15:51:32,OMC,NYSE ARCA,Utilities,H0350,Earnings,SEC Filings,Positive,0.506,0.51,NKTR;CDNA;FOX;FLO;KBE
+2025-07-07,15:51:43,CRMD,BATS,Real Estate,H0410,Product Launch,Investor Relations,Negative,0.483,0.81,CRSP;APLD;CHGG;NG;HIO
+2025-07-07,15:52:15,CARS,NASDAQ,Consumer Staples,H0596,Layoffs,Reddit,Positive,0.791,0.76,KSS;TNDM;VTRS;CGUS;LKQ
+2025-07-07,15:52:28,SMCI,NASDAQ,Energy,H0437,Partnership,Seeking Alpha,Negative,0.117,0.76,GPC
+2025-07-07,15:52:50,HR,NYSE,Utilities,H0783,Regulation,SEC Filings,Positive,0.504,0.71,SPYI;FRPT
+2025-07-07,15:52:56,PEP,NYSE ARCA,Real Estate,H0651,Layoffs,Yahoo Finance,Negative,0.247,0.64,LIVN;URNM;HALO;OLO;MFC
+2025-07-07,15:53:10,LAMR,NYSE,Consumer Discretionary,H0849,Earnings,CNBC,Positive,0.92,0.55,
+2025-07-07,15:53:18,ROIV,NYSE,Industrial,H0104,Dividend Announcement,Yahoo Finance,Positive,0.406,0.99,
+2025-07-07,15:53:22,LYB,BATS,Utilities,H0716,Stock Buyback,CNBC,Positive,0.747,0.79,TSDD;ARDX;STEM
+2025-07-07,15:53:29,BKR,NYSE ARCA,Industrial,H0598,Layoffs,Investor Relations,Neutral,0.22,0.65,BTBT
+2025-07-07,15:53:53,PLNT,NYSE MKT,Finance,H0833,Lawsuit,SEC Filings,Negative,0.425,0.5,CVE
+2025-07-07,15:54:11,WHR,NYSE ARCA,Consumer Discretionary,H0084,Cybersecurity Incident,CNBC,Positive,0.198,0.57,
+2025-07-07,15:54:19,CPB,LSE,Finance,H0823,Lawsuit,Reddit,Neutral,0.898,0.97,CNK;CAKE;DGRW;SVXY
+2025-07-07,15:54:26,EWC,NYSE,Energy,H0680,Earnings,Benzinga,Neutral,0.512,0.52,
+2025-07-07,15:54:29,MTG,BATS,Real Estate,H0149,Earnings,Benzinga,Positive,0.803,0.9,IEI;HGV;RDY
+2025-07-07,15:54:30,RWM,NYSE,Transportation,H0274,Earnings,Social Media,Negative,0.73,0.92,
+2025-07-07,15:54:48,TWLO,NYSE MKT,Cryptocurrency,H0921,Dividend Announcement,Yahoo Finance,Negative,0.86,0.68,COTY;HLX;ARE;EDU;SQM
+2025-07-07,15:55:00,LYB,NYSE ARCA,Real Estate,H0686,Macroeconomic,Bloomberg,Positive,0.372,0.63,TME;LNG;TLH;BEKE
+2025-07-07,15:55:03,ANF,LSE,Telecom,H0051,Macroeconomic,WSJ,Negative,0.47,0.53,MUX;BDN;SPMO;DDOG
+2025-07-07,15:55:44,LOW,LSE,Healthcare,H0779,Partnership,Seeking Alpha,Negative,0.965,0.94,CARG
+2025-07-07,15:55:54,NVNI,LSE,Media & Entertainment,H0608,Partnership,Investor Relations,Negative,0.395,0.56,HON;IONQ;SCI;GRPN;EDV
+2025-07-07,15:56:25,MET,NYSE MKT,Aerospace & Defense,H0953,Leadership Change,Twitter,Negative,0.276,0.72,SPTL;VERA;LABU;LNTH
+2025-07-07,15:57:01,XLG,BATS,Healthcare,H0482,M&A,Reuters,Negative,0.548,0.53,
+2025-07-07,15:57:20,LTH,NYSE MKT,Transportation,H0586,Regulation,SEC Filings,Positive,0.567,0.96,
+2025-07-07,15:57:21,BIRK,NASDAQ,Finance,H0225,Regulation,WSJ,Neutral,0.524,0.99,BSY;AVGO;BND
+2025-07-07,15:57:22,HOLX,NASDAQ,Transportation,H0668,Stock Buyback,Social Media,Negative,0.448,0.88,ASGN;ARCC
+2025-07-07,15:57:28,SPXS,LSE,Materials,H0222,Layoffs,Investor Relations,Negative,0.442,0.69,
+2025-07-07,15:57:30,WRB,NYSE ARCA,Energy,H0247,Product Launch,CNBC,Negative,0.654,0.72,
+2025-07-07,15:57:44,MOAT,LSE,Transportation,H0121,Leadership Change,Twitter,Positive,0.322,0.79,
+2025-07-07,15:57:48,EWL,BATS,Aerospace & Defense,H0675,Regulation,Social Media,Neutral,0.901,0.62,SCHG;GFI;WELL
+2025-07-07,15:57:54,YPF,NYSE MKT,Aerospace & Defense,H0685,Bankruptcy,Reddit,Negative,0.26,0.58,COUR;FUN
+2025-07-07,15:58:02,BTE,NYSE MKT,Consumer Discretionary,H0316,Partnership,Reuters,Positive,0.693,0.76,SPHD;ROST;XOP
+2025-07-07,15:58:02,SMPL,NYSE MKT,Industrial,H0424,Bankruptcy,Benzinga,Positive,0.28,0.86,RR;SLDP;ILMN;IMNM
+2025-07-07,15:59:22,BHC,NYSE ARCA,Consumer Staples,H0516,Stock Buyback,Reddit,Negative,0.205,0.75,RDFN;AU;RXO;CEG;ATAI
+2025-07-07,15:59:55,PTIR,NYSE MKT,Utilities,H0703,Layoffs,Bloomberg,Positive,0.335,0.82,
+2025-07-07,15:59:58,TTEK,NYSE,Consumer Discretionary,H0087,Dividend Announcement,Benzinga,Positive,0.525,0.87,SCZ;TTI;MLGO;SEE;CAT
+2025-07-07,16:00:00,HTGC,NYSE,Industrial,H0886,Macroeconomic,WSJ,Positive,0.178,0.84,ETHT;RXST
+2025-07-07,16:00:33,DRVN,NYSE ARCA,Healthcare,H0927,M&A,Financial Times,Neutral,0.968,0.77,DUHP;SDVY;CNQ
+2025-07-07,16:00:48,REAL,NYSE MKT,Energy,H0958,Product Launch,Twitter,Positive,0.13,0.95,PUMP;VRNS;ETH;PUK;INN
+2025-07-07,16:01:01,TDUP,NASDAQ,Energy,H0797,M&A,Bloomberg,Negative,0.117,0.68,GPK;VEEV;GUSH;DECK;COST
+2025-07-07,16:01:01,KR,NASDAQ,Energy,H0797,M&A,Bloomberg,Negative,0.117,0.68,
+2025-07-07,16:01:01,SMCL,NASDAQ,Energy,H0797,M&A,Bloomberg,Negative,0.117,0.68,UDR;PRQR
+2025-07-07,16:01:01,RRX,NASDAQ,Energy,H0797,M&A,Bloomberg,Negative,0.117,0.68,GLD;MSFT;ETNB;WFC;RTO
+2025-07-07,16:01:10,KRG,LSE,Aerospace & Defense,H0551,Bankruptcy,WSJ,Positive,0.935,0.9,
+2025-07-07,16:02:25,PDBC,NASDAQ,Materials,H0052,Cybersecurity Incident,Yahoo Finance,Positive,0.629,0.9,WEC;ZTO;SABR;DFLV
+2025-07-07,16:02:27,EWZ,NYSE MKT,Materials,H0565,Regulation,Seeking Alpha,Negative,0.364,0.59,
+2025-07-07,16:03:21,SEDG,BATS,Healthcare,H0578,Cybersecurity Incident,Reddit,Positive,0.736,0.62,INTR;MINT;DGX
+2025-07-07,16:03:42,SHO,NYSE,Telecom,H0364,Cybersecurity Incident,SEC Filings,Positive,0.648,0.57,LYRA
+2025-07-07,16:04:04,BBD,NYSE MKT,Aerospace & Defense,H0111,Leadership Change,Seeking Alpha,Positive,0.329,0.87,SDGR;PAAS
+2025-07-07,16:04:17,CENX,NASDAQ,Healthcare,H0013,Leadership Change,Social Media,Neutral,0.727,0.95,
+2025-07-07,16:04:21,QDEL,NYSE,Telecom,H0030,Bankruptcy,Social Media,Neutral,0.749,0.54,QS
+2025-07-07,16:04:21,NEE,NYSE,Real Estate,H0919,Cybersecurity Incident,Yahoo Finance,Negative,0.39,0.8,
+2025-07-07,16:05:25,SAIL,NYSE ARCA,Materials,H0037,Rumor,Reddit,Negative,0.754,0.59,NLY
+2025-07-07,16:06:34,X,BATS,Materials,H0413,Dividend Announcement,SEC Filings,Positive,0.703,0.78,ICL;NUE;INOD;CAPR;HLX
+2025-07-07,16:06:43,UMC,NYSE ARCA,Transportation,H0251,Rumor,Financial Times,Positive,0.896,0.76,PDM;EPC;BTU;CNDT;LBRDK
