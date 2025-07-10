@@ -17,22 +17,22 @@ def load_config(path: Path) -> Dict:
         return yaml.safe_load(f)
 
 # -----------------------------
-# Load symbols from CSV files
+# Load symbols from CSV files and dates
 # -----------------------------
-def load_symbols(hot_path: Path, other_path: Path, total_symbols: int) -> List[str]:
+def load_symbols_and_dates(hot_path: Path, other_path: Path, total_symbols: int):
     hot_count = int(total_symbols * 0.6)
     other_count = total_symbols - hot_count
 
-    def read_csv_symbols(file_path: Path, count: int) -> List[str]:
+    def read_csv_symbols(file_path: Path, count: int):
         with file_path.open('r', newline='') as f:
-            reader = csv.DictReader(f)
-            return [row['symbol'] for _, row in zip(range(count), reader)]
+            reader = list(csv.DictReader(f))
+            return [row['symbol'] for row in reader[:count]], reader[0]['START_DATE'], reader[0]['END_DATE']
 
-    hot_symbols = read_csv_symbols(hot_path, hot_count)
-    other_symbols = read_csv_symbols(other_path, other_count)
+    hot_symbols, start_date, end_date = read_csv_symbols(hot_path, hot_count)
+    other_symbols, _, _ = read_csv_symbols(other_path, other_count)
     symbols = hot_symbols + other_symbols
     random.shuffle(symbols)
-    return symbols
+    return symbols, start_date, end_date
 
 # -----------------------------
 # Weighted Random Choice
@@ -63,10 +63,14 @@ def generate_news_data(config_path: Path) -> List[Dict]:
 
     hot_symbols_path = Path(__file__).parent.parent / 'data' / 'hot_symbols.csv'
     other_symbols_path = Path(__file__).parent.parent / 'data' / 'other_symbols.csv'
-    symbols_pool = load_symbols(hot_symbols_path, other_symbols_path, config['SYMBOLS_RANGE'])
+    symbols_pool, start_date, end_date = load_symbols_and_dates(hot_symbols_path, other_symbols_path, config['SYMBOLS_RANGE'])
 
     news_items = []
     headline_counter = 1
+
+    start_dt = datetime.strptime(start_date, "%Y-%m-%d")
+    end_dt = datetime.strptime(end_date, "%Y-%m-%d")
+    delta_days = (end_dt - start_dt).days
 
     for _ in range(config['NUM_NEWS']):
         is_shared = random.random() < config['SHARED_HEADLINE_PROBABILITY']
@@ -85,7 +89,7 @@ def generate_news_data(config_path: Path) -> List[Dict]:
         source = random.choice(config['NEWS_SOURCES'])
         exchange = random.choice(config['REF_EXCHANGES'])['exchange_code']
         sector = random.choice(config['REF_SECTORS'])
-        date = config['DATE']
+        date = (start_dt + timedelta(days=random.randint(0, delta_days))).strftime("%Y-%m-%d")
         time = random_time()
 
         for symbol in chosen_symbols:

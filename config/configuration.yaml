@@ -58,6 +58,13 @@ NEWS_CATEGORIES:
   - "Macroeconomic"
   - "Rumor"
   - "Leadership Change"
+  - "Lawsuit"
+  - "Partnership"
+  - "Bankruptcy"
+  - "Dividend Announcement"
+  - "Stock Buyback"
+  - "Cybersecurity Incident"
+  - "Layoffs"
 
 # simulated news sources
 NEWS_SOURCES:
@@ -67,6 +74,13 @@ NEWS_SOURCES:
   - "CNBC"
   - "Benzinga"
   - "Social Media"
+  - "Financial Times"
+  - "Yahoo Finance"
+  - "Seeking Alpha"
+  - "Twitter"
+  - "Reddit"
+  - "Investor Relations"
+  - "SEC Filings"
 
 # sector mapping for affected symbols (optional logic usage)
 REF_SECTORS:
@@ -79,6 +93,12 @@ REF_SECTORS:
   - "Industrial"
   - "Telecom"
   - "Real Estate"
+  - "Consumer Staples"
+  - "Materials"
+  - "Transportation"
+  - "Media & Entertainment"
+  - "Aerospace & Defense"
+  - "Cryptocurrency"
 
 # exchanges
 REF_EXCHANGES:
