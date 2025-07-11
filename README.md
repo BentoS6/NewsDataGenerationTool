@@ -17,5 +17,10 @@
 
 Install required dependencies using:
 
-```zsh
+```
 pip install -r requirements.txt
+```
+
+## Issues
+
+- Everything thats generated is random, the sentiment and the news type doesnt have any corellation. Eg: news type can be layoffs and sentiment could be positive, etc. Could fix this later with some data mapping.

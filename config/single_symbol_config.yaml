@@ -1,0 +1,116 @@
+# total number of news
+NUM_NEWS: 100
+
+# batch size, has these number of news per file
+INPUT_BATCH_SIZE: 100
+
+# news spread out over these number of days
+NO_OF_DAYS: 20
+
+# date on which news comes out, if NO_OF_DAYS is >1 then, the rest of the days will be set to before the given date
+DATE: "2025-07-07"
+
+# fixed symbol setup
+SINGLE_SYMBOL_DETAILS:
+  symbol: "TSLA"
+  exchange: "NASDAQ"
+  sector: "Technology"
+
+# output format, could be json, csv or parquet
+OUTPUT_FORMAT: "csv"
+
+# percent split of the news sentiment, ideally most should be neutral
+NEWS_SENTIMENTS:
+  - sentiment: "Positive"
+    probability: 0.4
+  - sentiment: "Negative"
+    probability: 0.4
+  - sentiment: "Neutral"
+    probability: 0.2
+
+# range of the impact score
+IMPACT_SCORE_RANGE: [0.1, 1.0]
+
+# confidence score indicates how reliable or confirmed the news is
+CONFIDENCE_SCORE_RANGE: [0.5, 1.0]
+
+# maximum number of symbols affected by the news
+MAX_AFFECTED_SYMBOLS: 5  
+
+# Max ~x% price change based on sentiment and impact
+MAX_PERCENT_CHANGE: 0.05     
+
+# 10% of headlines will be reused across multiple stocks
+SHARED_HEADLINE_PROBABILITY: 0.05 
+
+# Limit the spread of shared headlines
+MAX_SYMBOLS_PER_SHARED_HEADLINE: 5  
+
+# categories of news events
+NEWS_CATEGORIES:
+  - "Earnings"
+  - "M&A"
+  - "Product Launch"
+  - "Regulation"
+  - "Macroeconomic"
+  - "Rumor"
+  - "Leadership Change"
+  - "Lawsuit"
+  - "Partnership"
+  - "Bankruptcy"
+  - "Dividend Announcement"
+  - "Stock Buyback"
+  - "Cybersecurity Incident"
+  - "Layoffs"
+
+# simulated news sources
+NEWS_SOURCES:
+  - "Reuters"
+  - "Bloomberg"
+  - "WSJ"
+  - "CNBC"
+  - "Benzinga"
+  - "Social Media"
+  - "Financial Times"
+  - "Yahoo Finance"
+  - "Seeking Alpha"
+  - "Twitter"
+  - "Reddit"
+  - "Investor Relations"
+  - "SEC Filings"
+
+# sector mapping for affected symbols (optional logic usage)
+REF_SECTORS:
+  - "Technology"
+  - "Healthcare"
+  - "Finance"
+  - "Energy"
+  - "Consumer Discretionary"
+  - "Utilities"
+  - "Industrial"
+  - "Telecom"
+  - "Real Estate"
+  - "Consumer Staples"
+  - "Materials"
+  - "Transportation"
+  - "Media & Entertainment"
+  - "Aerospace & Defense"
+  - "Cryptocurrency"
+
+# exchanges
+REF_EXCHANGES:
+  - exchange_id: 1
+    exchange_code: "NASDAQ"
+  - exchange_id: 2
+    exchange_code: "NYSE"
+  - exchange_id: 3
+    exchange_code: "LSE"
+  - exchange_id: 4
+    exchange_code: "BATS"
+  - exchange_id: 5
+    exchange_code: "NYSE ARCA"
+  - exchange_id: 6
+    exchange_code: "NYSE MKT"
+
+# Headlines will just be IDs, like H001, H002, etc.
+# chance of same headline for multiple symbols: 10%
