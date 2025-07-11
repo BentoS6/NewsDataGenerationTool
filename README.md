@@ -10,6 +10,7 @@
 - Outputs to **CSV**, **JSON**, or **Parquet** formats as per config file
 - Supports shared headlines across multiple symbols
 - Batch-wise output file support
+- Single symbol support added
 
 ---
 
